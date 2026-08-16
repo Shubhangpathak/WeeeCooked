@@ -1,7 +1,7 @@
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
 import { ArrowRight, BookOpen, Check, ChevronRight, Code2, ExternalLink, Flame, Github, GraduationCap, LayoutDashboard, LogOut, Menu, Plus, Rocket, Settings, Sparkles, Swords, Trophy, X } from "lucide-react";
 import { FormEvent, useEffect, useState } from "react";
-import { Link, Route, Switch, useLocation } from "wouter";
+import { Link, Route, Router, Switch, useLocation } from "wouter";
 import { Toaster } from "@/components/ui/sonner";
 import { lessons, languageSnippets, objectiveText, primer, type Language, type Lesson } from "@/lib/curriculum";
 import { completedLessonIds, dueResolves, getBadges, getRank, getStreak, getXp, heatmap, nextRank, type ProgressEntry, toDateKey } from "@/lib/game";
@@ -28,7 +28,7 @@ function Shell({ state, demo, signOut, children }: { state: AppState; demo: bool
 
 function Landing({ openDemo }: { openDemo: () => void }) {
   const [email, setEmail] = useState(""); const [sent, setSent] = useState(false); const [sending, setSending] = useState(false);
-  const sendLink = async (event: FormEvent) => { event.preventDefault(); if (!supabase) { toast.message("Add Supabase details to enable sign-in. You can explore the demo right now."); return; } setSending(true); const result = await supabase.auth.signInWithOtp({ email, options: { emailRedirectTo: window.location.origin + "/auth/callback", shouldCreateUser: true } }); setSending(false); if (result.error) toast.error(result.error.message); else setSent(true); };
+  const sendLink = async (event: FormEvent) => { event.preventDefault(); if (!supabase) { toast.message("Add Supabase details to enable sign-in. You can explore the demo right now."); return; } setSending(true); const result = await supabase.auth.signInWithOtp({ email, options: { emailRedirectTo: window.location.origin + import.meta.env.BASE_URL + "auth/callback", shouldCreateUser: true } }); setSending(false); if (result.error) toast.error(result.error.message); else setSent(true); };
   return <div className="landing"><header className="landing-nav"><Brand /><div><a href="#how">How it works</a><a href="#road">The roadmap</a><button className="ghost-button" onClick={openDemo}>Explore demo</button></div></header><main>
     <section className="hero-grid"><div className="hero-copy"><div className="eyebrow"><Flame size={14} /> DSA, but make it a team sport</div><h1>Learn DSA from zero.<br /><em>Don’t get cooked alone.</em></h1><p>WeeeCooked turns a serious DSA path into daily quests, visible streaks, and a little friendly heat with your crew.</p>
       <form className="magic-form" onSubmit={sendLink}><label>Your email</label><div><input type="email" required value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com" /><button disabled={sending}>{sending ? "Sending…" : "Send magic link"}<ArrowRight size={17} /></button></div>{sent ? <small className="success">Check your inbox. Your one-time link stays valid for 24 hours.</small> : <small>No passwords. Just a one-time sign-in link.</small>}</form>
@@ -113,4 +113,4 @@ function App() {
   return <Shell state={state} demo={demo} signOut={signOut}><Switch><Route path="/dashboard"><Dashboard state={state} changeProgress={changeProgress} /></Route><Route path="/roadmap"><Roadmap state={state} /></Route><Route path="/leaderboard"><Leaderboard state={state} /></Route><Route path="/learn/:id">{(params) => <LessonPage lessonId={params.id} state={state} changeProgress={changeProgress} saveNote={saveNote} />}</Route><Route path="/u/:name">{(params) => <ProfilePage name={params.name} state={state} />}</Route><Route path="/projects"><ProjectsPage state={state} createProject={createProject} removeProject={removeProject} /></Route><Route path="/settings"><SettingsPage state={state} update={updateProfile} /></Route><Route><NotFound /></Route></Switch></Shell>;
 }
 
-export default function Root() { return <><App /><Toaster position="top-right" richColors /></>; }
+export default function Root() { return <Router base={import.meta.env.BASE_URL}><App /><Toaster position="top-right" richColors /></Router>; }

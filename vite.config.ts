@@ -9,6 +9,7 @@ const rootDir = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
   plugins: [react(), tailwindcss(), jsxLocPlugin()],
+  base: process.env.GITHUB_ACTIONS === "true" ? "/WeeeCooked/" : "/",
   resolve: {
     alias: {
       "@": path.resolve(rootDir, "client", "src"),
