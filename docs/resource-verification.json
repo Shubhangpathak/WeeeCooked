@@ -1,0 +1,1184 @@
+[
+  {
+    "url": "https://cp-algorithms.com/data_structures/disjoint_set_union.html",
+    "status": 200,
+    "finalUrl": "https://cp-algorithms.com/data_structures/disjoint_set_union.html",
+    "pageTitle": "Disjoint Set Union - Algorithms for Competitive Programming",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cp-algorithms.com/data_structures/fenwick.html",
+    "status": 200,
+    "finalUrl": "https://cp-algorithms.com/data_structures/fenwick.html",
+    "pageTitle": "Fenwick Tree - Algorithms for Competitive Programming",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cp-algorithms.com/data_structures/segment_tree.html",
+    "status": 200,
+    "finalUrl": "https://cp-algorithms.com/data_structures/segment_tree.html",
+    "pageTitle": "Segment Tree - Algorithms for Competitive Programming",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+    "status": 200,
+    "finalUrl": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+    "pageTitle": "Introduction to Dynamic Programming - Algorithms for Competitive Programming",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cp-algorithms.com/graph/bellman_ford.html",
+    "status": 200,
+    "finalUrl": "https://cp-algorithms.com/graph/bellman_ford.html",
+    "pageTitle": "Bellman-Ford - finding shortest paths with negative weights - Algorithms for Competitive Programming",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cp-algorithms.com/graph/dijkstra.html",
+    "status": 200,
+    "finalUrl": "https://cp-algorithms.com/graph/dijkstra.html",
+    "pageTitle": "Dijkstra - finding shortest paths from given vertex - Algorithms for Competitive Programming",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cp-algorithms.com/graph/mst_kruskal.html",
+    "status": 200,
+    "finalUrl": "https://cp-algorithms.com/graph/mst_kruskal.html",
+    "pageTitle": "Minimum Spanning Tree - Kruskal - Algorithms for Competitive Programming",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cp-algorithms.com/graph/topological-sort.html",
+    "status": 200,
+    "finalUrl": "https://cp-algorithms.com/graph/topological-sort.html",
+    "pageTitle": "Topological Sorting - Algorithms for Competitive Programming",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1158",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1158",
+    "pageTitle": "CSES - Book Shop",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1192",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1192",
+    "pageTitle": "CSES - Counting Rooms",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1197",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1197",
+    "pageTitle": "CSES - Cycle Finding",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1619",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1619",
+    "pageTitle": "CSES - Restaurant Customers",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1629",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1629",
+    "pageTitle": "CSES - Movie Festival",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1633",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1633",
+    "pageTitle": "CSES - Dice Combinations",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1648",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1648",
+    "pageTitle": "CSES - Dynamic Range Sum Queries",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1649",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1649",
+    "pageTitle": "CSES - Dynamic Range Minimum Queries",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1667",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1667",
+    "pageTitle": "CSES - Message Route",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1669",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1669",
+    "pageTitle": "CSES - Round Trip",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://cses.fi/problemset/task/1675",
+    "status": 200,
+    "finalUrl": "https://cses.fi/problemset/task/1675",
+    "pageTitle": "CSES - Road Reparation",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/assign-cookies/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/balanced-binary-tree/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/binary-search/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/climbing-stairs/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/coin-change/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/combination-sum/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/container-with-most-water/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/course-schedule/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/edit-distance/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/fibonacci-number/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/find-center-of-star-graph/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/house-robber/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/jump-game/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/last-stone-weight/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/longest-common-subsequence/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/merge-intervals/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/network-delay-time/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/next-greater-element-i/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/number-of-1-bits/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/number-of-islands/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/number-of-provinces/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/permutations/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/richest-customer-wealth/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/running-sum-of-1d-array/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/score-of-a-string/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+    "status": 200,
+    "finalUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+    "pageTitle": "Search in a Binary Search Tree - LeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/search-insert-position/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/sort-an-array/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/subsets/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/two-sum/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/unique-paths/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/valid-anagram/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/valid-palindrome/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "status": "unconfirmed",
+    "detail": "HTTP Error 403: Forbidden",
+    "method": "HTTP GET; failure may reflect bot protection",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/binary-search",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/binary-search",
+    "pageTitle": "LeetCode 704 Binary Search Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/coin-change",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/coin-change",
+    "pageTitle": "LeetCode 322 Coin Change Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/edit-distance",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/edit-distance",
+    "pageTitle": "LeetCode 72 Edit Distance Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/house-robber",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/house-robber",
+    "pageTitle": "LeetCode 198 House Robber Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/longest-common-subsequence",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/longest-common-subsequence",
+    "pageTitle": "LeetCode 1143 Longest Common Subsequence Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/number-of-islands",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/number-of-islands",
+    "pageTitle": "LeetCode 200 Number of Islands Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/permutations",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/permutations",
+    "pageTitle": "LeetCode 46 Permutations Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/subsets",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/subsets",
+    "pageTitle": "LeetCode 78 Subsets Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/two-sum",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/two-sum",
+    "pageTitle": "LeetCode 1 Two Sum Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/valid-anagram",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/valid-anagram",
+    "pageTitle": "LeetCode 242 Valid Anagram Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://neetcode.io/solutions/valid-parentheses",
+    "status": 200,
+    "finalUrl": "https://neetcode.io/solutions/valid-parentheses",
+    "pageTitle": "LeetCode 20 Valid Parentheses Solution & Explanation | NeetCode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/",
+    "pageTitle": "Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Erik Demaine",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-10-depth-first-search/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-10-depth-first-search/",
+    "pageTitle": "Lecture 10: Depth-First Search | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Justin Solomon",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-15-dynamic-programming-part-1-srtbot-fib-dags-bowling/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-15-dynamic-programming-part-1-srtbot-fib-dags-bowling/",
+    "pageTitle": "Lecture 15: Dynamic Programming, Part 1: SRTBOT, Fib, DAGs, Bowling | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Erik Demaine",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-16-dynamic-programming-part-2-lcs-lis-coins/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-16-dynamic-programming-part-2-lcs-lis-coins/",
+    "pageTitle": "Lecture 16: Dynamic Programming, Part 2: LCS, LIS, Coins | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Erik Demaine",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-2-data-structures-and-dynamic-arrays/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-2-data-structures-and-dynamic-arrays/",
+    "pageTitle": "Lecture 2: Data Structures and Dynamic Arrays | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Erik Demaine",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-4-hashing/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-4-hashing/",
+    "pageTitle": "Lecture 4: Hashing | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Jason Ku",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+    "pageTitle": "Lecture 6: Binary Trees, Part 1 | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Erik Demaine",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-8-binary-heaps/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-8-binary-heaps/",
+    "pageTitle": "Lecture 8: Binary Heaps | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Erik Demaine",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-9-breadth-first-search/",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-9-breadth-first-search/",
+    "pageTitle": "Lecture 9: Breadth-First Search | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+    "instructor": "Justin Solomon",
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://see.stanford.edu/Course/CS106B/148",
+    "status": 200,
+    "finalUrl": "https://see.stanford.edu/Course/CS106B/148",
+    "pageTitle": "Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 25 - Lexicon Case Study",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://see.stanford.edu/Course/CS106B/149",
+    "status": 200,
+    "finalUrl": "https://see.stanford.edu/Course/CS106B/149",
+    "pageTitle": "Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 11 - Backtracking Pseudocode",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://see.stanford.edu/Course/CS106B/150",
+    "status": 200,
+    "finalUrl": "https://see.stanford.edu/Course/CS106B/150",
+    "pageTitle": "Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 8 - Common Mistakes Stumbled Upon: 'I'terator",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://see.stanford.edu/Course/CS106B/159",
+    "status": 200,
+    "finalUrl": "https://see.stanford.edu/Course/CS106B/159",
+    "pageTitle": "Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 20 - Live Coding: Recap of the Vector-based Implementation for Stack",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://see.stanford.edu/Course/CS106B/163",
+    "status": 200,
+    "finalUrl": "https://see.stanford.edu/Course/CS106B/163",
+    "pageTitle": "Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 9 - Thinking Recursively",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://see.stanford.edu/Course/CS106B/164",
+    "status": 200,
+    "finalUrl": "https://see.stanford.edu/Course/CS106B/164",
+    "pageTitle": "Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 14 - Algorithm Analysis",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/bronze/intro-ds",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/bronze/intro-ds",
+    "pageTitle": "Introduction to Data Structures \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/bronze/intro-graphs",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/bronze/intro-graphs",
+    "pageTitle": "Introduction to Graphs \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/bronze/intro-greedy",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/bronze/intro-greedy",
+    "pageTitle": "Introduction to Greedy Algorithms \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/bronze/intro-sets",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/bronze/intro-sets",
+    "pageTitle": "Introduction to Sets & Maps \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/bronze/intro-sorting",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/bronze/intro-sorting",
+    "pageTitle": "Introduction to Sorting \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/gold/knapsack",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/gold/knapsack",
+    "pageTitle": "Knapsack DP \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/gold/paths-grids",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/gold/paths-grids",
+    "pageTitle": "Paths on Grids \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/gold/stacks",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/gold/stacks",
+    "pageTitle": "Stacks \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/silver/binary-search",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/silver/binary-search",
+    "pageTitle": "Binary Search \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/silver/greedy-sorting",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/silver/greedy-sorting",
+    "pageTitle": "Greedy Algorithms with Sorting \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/silver/intro-bitwise",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/silver/intro-bitwise",
+    "pageTitle": "Intro to Bitwise Operators \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/silver/prefix-sums",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/silver/prefix-sums",
+    "pageTitle": "Introduction to Prefix Sums \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://usaco.guide/silver/two-pointers",
+    "status": 200,
+    "finalUrl": "https://usaco.guide/silver/two-pointers",
+    "pageTitle": "Two Pointers \u00b7 USACO Guide",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://visualgo.net/en/array",
+    "status": 200,
+    "finalUrl": "https://visualgo.net/en/array",
+    "pageTitle": "Array - VisuAlgo",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://visualgo.net/en/bst",
+    "status": 200,
+    "finalUrl": "https://visualgo.net/en/bst",
+    "pageTitle": "Binary Search Tree, AVL Tree - VisuAlgo",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://visualgo.net/en/dfsbfs",
+    "status": 200,
+    "finalUrl": "https://visualgo.net/en/dfsbfs",
+    "pageTitle": "Graph Traversal (Depth/Breadth First Search) - VisuAlgo",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://visualgo.net/en/hashtable",
+    "status": 200,
+    "finalUrl": "https://visualgo.net/en/hashtable",
+    "pageTitle": "Hash Table (Closed Addressing: Separate Chaining and Open Addressing: Linear Probing, Quadratic Probing, Double Hashing) - VisuAlgo",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://visualgo.net/en/heap",
+    "status": 200,
+    "finalUrl": "https://visualgo.net/en/heap",
+    "pageTitle": "Binary Heap (Priority Queue) - VisuAlgo",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://visualgo.net/en/list",
+    "status": 200,
+    "finalUrl": "https://visualgo.net/en/list",
+    "pageTitle": "Linked List (Single, Doubly), Stack, Queue, Deque - VisuAlgo",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://visualgo.net/en/recursion",
+    "status": 200,
+    "finalUrl": "https://visualgo.net/en/recursion",
+    "pageTitle": "Recursion Tree and DAG (Dynamic Programming/DP) - VisuAlgo",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://visualgo.net/en/sorting",
+    "status": 200,
+    "finalUrl": "https://visualgo.net/en/sorting",
+    "pageTitle": "Sorting (Bubble, Selection, Insertion, Merge, Quick, Counting, Radix) - VisuAlgo",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/",
+    "status": 200,
+    "finalUrl": "https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/",
+    "pageTitle": "Learn Data Structures from a Google Engineer - A Free 8-hour Course",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/array-left-rotation/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/array-left-rotation/problem",
+    "pageTitle": "Left Rotation | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/arrays-ds/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/arrays-ds/problem",
+    "pageTitle": "Arrays - DS | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/arrays-introduction/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/arrays-introduction/problem",
+    "pageTitle": "Arrays Introduction | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem",
+    "pageTitle": "Conditional Statements | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem",
+    "pageTitle": "For Loop | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/c-tutorial-functions/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/c-tutorial-functions/problem",
+    "pageTitle": "Functions | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/c-tutorial-strings/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/c-tutorial-strings/problem",
+    "pageTitle": "Strings | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/cpp-input-and-output/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/cpp-input-and-output/problem",
+    "pageTitle": "Input and Output | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/ctci-bubble-sort/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/ctci-bubble-sort/problem",
+    "pageTitle": "Sorting: Bubble Sort | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem",
+    "pageTitle": "Insert a Node at the Tail of a Linked List | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/insertionsort1/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/insertionsort1/problem",
+    "pageTitle": "Insertion Sort - Part 1 | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem",
+    "pageTitle": "Print the Elements of a Linked List | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/simple-array-sum/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/simple-array-sum/problem",
+    "pageTitle": "Simple Array Sum | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/sparse-arrays/problem",
+    "status": 200,
+    "finalUrl": "https://www.hackerrank.com/challenges/sparse-arrays/problem",
+    "pageTitle": "Sparse Arrays | HackerRank",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/for-statements/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/for-statements/",
+    "pageTitle": "8.10 \u2014 For statements \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-functions/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-functions/",
+    "pageTitle": "2.1 \u2014 Introduction to functions \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-if-statements/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-if-statements/",
+    "pageTitle": "4.10 \u2014 Introduction to if statements \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/",
+    "pageTitle": "1.5 \u2014 Introduction to iostream: cout, cin, and endl \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/",
+    "pageTitle": "1.3 \u2014 Introduction to objects and variables \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/",
+    "pageTitle": "5.7 \u2014 Introduction to std::string \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdvector-and-list-constructors/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdvector-and-list-constructors/",
+    "pageTitle": "16.2 \u2014 Introduction to std::vector and list constructors \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-testing-your-code/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-testing-your-code/",
+    "pageTitle": "9.1 \u2014 Introduction to testing your code \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.learncpp.com/cpp-tutorial/pass-by-lvalue-reference/",
+    "status": 200,
+    "finalUrl": "https://www.learncpp.com/cpp-tutorial/pass-by-lvalue-reference/",
+    "pageTitle": "12.5 \u2014 Pass by lvalue reference \u2013 Learn C++",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.techinterviewhandbook.org/algorithms/interval/",
+    "status": 200,
+    "finalUrl": "https://www.techinterviewhandbook.org/algorithms/interval/",
+    "pageTitle": "Interval cheatsheet for coding interviews | Tech Interview Handbook",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+    "status": 200,
+    "finalUrl": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+    "pageTitle": "Coding interview study plan - what to study and practice based on time left | Tech Interview Handbook",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  },
+  {
+    "url": "https://www.techinterviewhandbook.org/coding-interview-techniques/",
+    "status": 200,
+    "finalUrl": "https://www.techinterviewhandbook.org/coding-interview-techniques/",
+    "pageTitle": "Top techniques to approach and solve coding interview questions | Tech Interview Handbook",
+    "instructor": null,
+    "method": "HTTP GET; not video playback",
+    "checkedOn": "2026-09-29"
+  }
+]

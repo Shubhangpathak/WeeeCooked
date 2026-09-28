@@ -1,3 +1,9 @@
+# Current research: 29 September 2026
+
+The flexible foundations-to-interviews curriculum supersedes the earlier weekly recommendations below. See [all 72 audit decisions](docs/resource-audit.md), [publisher evidence and verification limits](docs/resource-evidence.md), and [current curriculum](curriculum.md). English-first public university lectures are selected by topic and prerequisites; advanced material is optional. Practitioner guidance is attributed to individuals, not represented as Google or Meta hiring policy.
+
+---
+
 # Validated DSA Learning Sources — Working Notes
 
 ## Learner fit
@@ -30,3 +36,13 @@ One **primary explanation** and one **primary practice source** will be assigned
 5. https://www.hackerrank.com/domains/data-structures
 6. https://www.youtube.com/watch?v=RBSGKlAvoiM
 7. https://www.youtube.com/watch?v=8hly31xKli0
+
+## Resource refresh (September 2026)
+
+The lesson UI now uses one guided reading, one visual or companion explanation, and one coding question in that order. It is placed in the lesson's right column, where the screenshots indicated unused space. Optional deep dives appear only where they form a sensible next step. The roadmap also offers a language-specific starting point before Day 1.
+
+The first week now steps from [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) to [Arrays: DS](https://www.hackerrank.com/challenges/arrays-ds/problem), then a grid and rotation task. Prefix sums begin with [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/); [Static Range Sum Queries](https://cses.fi/problemset/task/1646) is an optional next step. This avoids assigning query-heavy or stateful array problems before basic indexing and loops.
+
+New primary explanations were selected from the publishers' own pages: [USACO Guide complexity](https://usaco.guide/bronze/time-comp), [array introduction](https://usaco.guide/bronze/intro-ds), [sorting introduction](https://usaco.guide/bronze/intro-sorting), [graph traversal](https://usaco.guide/silver/graph-traversal), and [VisuAlgo array operations](https://visualgo.net/en/array). Later topic-specific paths use [CP-Algorithms dynamic programming](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html), [Dijkstra](https://cp-algorithms.com/graph/dijkstra.html), and [disjoint sets](https://cp-algorithms.com/data_structures/disjoint_set_union.html). These readings have concrete instructions to focus on the first example or a small paper trace before implementation. The complete mapping lives in `client/src/lib/studyResources.ts`.
+
+The beginner preparation links lead to [LearnCpp](https://www.learncpp.com/), [Dev.java](https://dev.java/learn/getting-started/), or the [Python tutorial](https://docs.python.org/3/tutorial/) according to the learner's chosen language. [USACO Guide expected knowledge](https://usaco.guide/general/expected-knowledge) supplies a short readiness checklist. A learner who needs this preparation can revisit the same roadmap without changing the 72-day progress model.

@@ -1,14 +1,23 @@
-# Guided Day Resources — Research Notes
+# Study resource guide
 
-The revised study plan should lead with short, purpose-built learning materials. Long lectures remain optional deepening, never an unexplained first task. Each day card will explain the resource’s role, the portion to focus on, and the immediate practice task.
+The live application uses explicit per-lesson mappings, not weekly defaults.
 
-| Day | Free primary resource | Guidance for the learner | Immediate use |
-| --- | --- | --- | --- |
-| 1 | [Learn Big O Notation in 12 Minutes](https://www.youtube.com/watch?v=itn09C2ZB9Y) | Watch the complete short lesson. Focus on comparing O(1), O(log n), O(n), and O(n²); do not try to memorise every rarer notation. | Estimate the cost of a linear scan and a nested loop. |
-| 2 | [Array Data Structure Tutorial — Array Time Complexity](https://www.youtube.com/watch?v=B2KusJcbVIg) | Focus on contiguous storage and why access, insert, and delete have different costs. Skip language-specific syntax that does not match the learner’s chosen language. | Solve HackerRank *Arrays - DS*. |
-| 3 | [MIT 6.006 — Lecture 2: Data Structures and Dynamic Arrays](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-2-data-structures-and-dynamic-arrays/) | This is a deepening lecture, not a first-pass video. First trace a 2D array locally; then stop the MIT lecture once the dynamic-array interface and resizing idea are clear. Defer amortized-analysis proof details until sorting and recurrence work. | Solve HackerRank *2D Array - DS*. |
-| 4 | [Rotate Array by K Places](https://www.youtube.com/watch?v=wvcQg43_V8U) | Watch only the **left-rotation** portion at the beginning. The video also includes union/intersection and move-zeroes; explicitly save those later parts for Week 2. | Solve HackerRank *Left Rotation*. |
-| 5 | [Prefix Sum in 4 Minutes](https://www.youtube.com/watch?v=yuws7YK0Yng) | Watch the complete short video. Pause after the formula for a range sum and calculate two examples on paper. | Implement prefix sums and answer two range-sum queries. |
-| 6 | [Striver: Hashing, Maps, Time Complexity, Collisions](https://www.youtube.com/watch?v=KEs5UyBJ39g) | Focus on frequency maps and the key-to-count pattern. The collision/division-rule details are useful but optional on this first pass. | Solve HackerRank *Sparse Arrays* and count frequencies. |
+## Learner flow
 
-MIT’s [6.006 lecture index](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) confirms dedicated later lectures for dynamic arrays, sets/sorting, hashing, trees, heaps, BFS, DFS, weighted shortest paths, and dynamic programming. The dashboard will attach these as **optional deep dives** after a short primary explanation—not as an unchecked, open-ended playlist.
+1. Read today's outcome and check the prerequisite links.
+2. Study the named section of the primary explanation (typically 20–30 minutes of study effort).
+3. Use the supporting article or visualisation to trace the original small example.
+4. Implement the local task in C++17, then attempt the exact external question.
+5. Explain costs and test boundaries. Reveal a solution only after an attempt, then re-solve without it.
+
+The right desktop column shows resources and practice before the recipe and edge-case cards. Additional explanations and stretch tasks are collapsed. My notes is one private editor, also available from the left navigation.
+
+## Source roles
+
+LearnCpp supplies modern C++ foundations; selected Stanford SEE lectures supply recursion, backtracking, and structures; selected MIT lectures supply later algorithmic reasoning. USACO Guide and CP-Algorithms are scoped references. VisuAlgo supports tracing. Public NeetCode explanations are optional post-attempt help; no paid course is required. Fiset's Java course is a clearly labelled alternative for relevant structure topics, never falsely attributed or assigned in full.
+
+See [publisher evidence](docs/resource-evidence.md), [full original-lesson audit](docs/resource-audit.md), [current mappings](docs/resource-manifest.json), and [access checks](docs/resource-verification.json).
+
+## Maintaining content
+
+Edit original tasks in `scripts/build-curriculum.py`, run it to update `curriculumData.ts`, then run `pnpm audit:resources` and `pnpm check:curriculum`. Edit source metadata in `resourceCatalog.ts`. Never infer lecture numbers from URL IDs, reuse a generic homepage, change a stable lesson ID's meaning, or describe metadata checks as watching a video.

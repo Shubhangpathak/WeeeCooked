@@ -6,7 +6,7 @@ WeeeCooked is a social DSA study tracker: structured lessons, XP, streaks, a sma
 
 1. Copy .env.example to .env.local.
 2. In Supabase, create a project and copy its Project URL and publishable key into .env.local.
-3. Run supabase/migrations/0001_weeecooked.sql in the Supabase SQL editor.
+3. Run the migrations in order: `supabase/migrations/0001_weeecooked.sql`, then `supabase/migrations/0002_flexible_curriculum.sql`. Existing installations need only 0002. Apply 0002 before deploying the flexible curriculum client.
 4. In Supabase Authentication:
    - Enable Email / Magic Link.
    - Set the Site URL to your local development address.
@@ -31,3 +31,12 @@ Do not add any secret or service role key to the frontend or to .env.example.
 - Actual names and lesson notes are private.
 - Public names, XP, rank, roadmap completion, badges, and projects are visible to signed-in members.
 - XP is 10 points per completed objective plus a 25-point bonus for a fully completed lesson.
+
+## Curriculum and verification
+
+- 79 core lessons in 11 flexible stages; nine optional extensions.
+- C++17 and English first, with exact topic resources and external practice tasks.
+- Historical lesson routes, progress, XP, and notes are preserved. New tasks never inherit unrelated completion.
+- See [curriculum](curriculum.md), [72-lesson audit](docs/resource-audit.md), [source evidence](docs/resource-evidence.md), and [rollout instructions](docs/curriculum-rollout.md).
+- `pnpm check:curriculum` checks prerequisite order, coverage, stable IDs, archived routes, and XP/badge compatibility.
+- `pnpm audit:resources` refreshes the audit and manifest from the content; `pnpm check:links` checks public URLs without claiming video playback verification.

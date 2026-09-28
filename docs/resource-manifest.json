@@ -1,0 +1,2176 @@
+{
+  "checkedOn": "2026-09-29",
+  "resources": [
+    {
+      "id": "variables",
+      "title": "1.3 — Introduction to objects and variables",
+      "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "io",
+      "title": "1.5 — Introduction to iostream: cout, cin, and endl",
+      "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "conditions",
+      "title": "4.10 — Introduction to if statements",
+      "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-if-statements/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-if-statements/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "loops",
+      "title": "8.10 — For statements",
+      "url": "https://www.learncpp.com/cpp-tutorial/for-statements/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/for-statements/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "functions",
+      "title": "2.1 — Introduction to functions",
+      "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-functions/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-functions/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "testing",
+      "title": "9.1 — Introduction to testing your code",
+      "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-testing-your-code/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-testing-your-code/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "vector",
+      "title": "16.2 — Introduction to std::vector and list constructors",
+      "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdvector-and-list-constructors/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdvector-and-list-constructors/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "string",
+      "title": "5.7 — Introduction to std::string",
+      "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "references",
+      "title": "12.5 — Pass by lvalue reference",
+      "url": "https://www.learncpp.com/cpp-tutorial/pass-by-lvalue-reference/",
+      "creator": "Alex · LearnCpp",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.learncpp.com/cpp-tutorial/pass-by-lvalue-reference/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "arrays",
+      "title": "Introduction to Data Structures",
+      "url": "https://usaco.guide/bronze/intro-ds",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/bronze/intro-ds",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "maps",
+      "title": "Introduction to Sets & Maps",
+      "url": "https://usaco.guide/bronze/intro-sets",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/bronze/intro-sets",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "prefix",
+      "title": "Introduction to Prefix Sums",
+      "url": "https://usaco.guide/silver/prefix-sums",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/silver/prefix-sums",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "pointers",
+      "title": "Two Pointers",
+      "url": "https://usaco.guide/silver/two-pointers",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/silver/two-pointers",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "sorting",
+      "title": "Introduction to Sorting",
+      "url": "https://usaco.guide/bronze/intro-sorting",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/bronze/intro-sorting",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "binary",
+      "title": "Binary Search",
+      "url": "https://usaco.guide/silver/binary-search",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/silver/binary-search",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "graphs",
+      "title": "Introduction to Graphs",
+      "url": "https://usaco.guide/bronze/intro-graphs",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/bronze/intro-graphs",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "greedy",
+      "title": "Introduction to Greedy Algorithms",
+      "url": "https://usaco.guide/bronze/intro-greedy",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/bronze/intro-greedy",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "intervals",
+      "title": "Greedy Algorithms with Sorting",
+      "url": "https://usaco.guide/silver/greedy-sorting",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/silver/greedy-sorting",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "knapsack",
+      "title": "Knapsack DP",
+      "url": "https://usaco.guide/gold/knapsack",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/gold/knapsack",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "grid-dp",
+      "title": "Paths on Grids",
+      "url": "https://usaco.guide/gold/paths-grids",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/gold/paths-grids",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "bits",
+      "title": "Intro to Bitwise Operators",
+      "url": "https://usaco.guide/silver/intro-bitwise",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/silver/intro-bitwise",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "monotonic",
+      "title": "Stacks",
+      "url": "https://usaco.guide/gold/stacks",
+      "creator": "USACO Guide contributors",
+      "format": "Article",
+      "codeLanguage": "C++ / Java / Python; select C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://usaco.guide/gold/stacks",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "v-array",
+      "title": "Array",
+      "url": "https://visualgo.net/en/array",
+      "creator": "Steven Halim and VisuAlgo team · NUS",
+      "format": "Visualization",
+      "codeLanguage": "Pseudocode",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://visualgo.net/en/array",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "v-list",
+      "title": "Linked List (Single, Doubly), Stack, Queue, Deque",
+      "url": "https://visualgo.net/en/list",
+      "creator": "Steven Halim and VisuAlgo team · NUS",
+      "format": "Visualization",
+      "codeLanguage": "Pseudocode",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://visualgo.net/en/list",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "v-tree",
+      "title": "Binary Search Tree, AVL Tree",
+      "url": "https://visualgo.net/en/bst",
+      "creator": "Steven Halim and VisuAlgo team · NUS",
+      "format": "Visualization",
+      "codeLanguage": "Pseudocode",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://visualgo.net/en/bst",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "v-heap",
+      "title": "Binary Heap (Priority Queue)",
+      "url": "https://visualgo.net/en/heap",
+      "creator": "Steven Halim and VisuAlgo team · NUS",
+      "format": "Visualization",
+      "codeLanguage": "Pseudocode",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://visualgo.net/en/heap",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "v-recursion",
+      "title": "Recursion Tree and DAG (Dynamic Programming/DP)",
+      "url": "https://visualgo.net/en/recursion",
+      "creator": "Steven Halim and VisuAlgo team · NUS",
+      "format": "Visualization",
+      "codeLanguage": "Pseudocode",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://visualgo.net/en/recursion",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "v-graph",
+      "title": "Graph Traversal (Depth/Breadth First Search)",
+      "url": "https://visualgo.net/en/dfsbfs",
+      "creator": "Steven Halim and VisuAlgo team · NUS",
+      "format": "Visualization",
+      "codeLanguage": "Pseudocode",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://visualgo.net/en/dfsbfs",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "v-sort",
+      "title": "Sorting (Bubble, Selection, Insertion, Merge, Quick, Counting, Radix)",
+      "url": "https://visualgo.net/en/sorting",
+      "creator": "Steven Halim and VisuAlgo team · NUS",
+      "format": "Visualization",
+      "codeLanguage": "Pseudocode",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://visualgo.net/en/sorting",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "v-hash",
+      "title": "Hash Table",
+      "url": "https://visualgo.net/en/hashtable",
+      "creator": "Steven Halim and VisuAlgo team · NUS",
+      "format": "Visualization",
+      "codeLanguage": "Pseudocode",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://visualgo.net/en/hashtable",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "dp",
+      "title": "Introduction to Dynamic Programming",
+      "url": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+      "creator": "CP-Algorithms contributors",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "topo",
+      "title": "Topological Sorting",
+      "url": "https://cp-algorithms.com/graph/topological-sort.html",
+      "creator": "CP-Algorithms contributors",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://cp-algorithms.com/graph/topological-sort.html",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "dsu",
+      "title": "Disjoint Set Union",
+      "url": "https://cp-algorithms.com/data_structures/disjoint_set_union.html",
+      "creator": "CP-Algorithms contributors",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://cp-algorithms.com/data_structures/disjoint_set_union.html",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "dijkstra",
+      "title": "Dijkstra - finding shortest paths from given vertex",
+      "url": "https://cp-algorithms.com/graph/dijkstra.html",
+      "creator": "CP-Algorithms contributors",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://cp-algorithms.com/graph/dijkstra.html",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "bellman",
+      "title": "Bellman-Ford - finding shortest paths with negative weights",
+      "url": "https://cp-algorithms.com/graph/bellman_ford.html",
+      "creator": "CP-Algorithms contributors",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://cp-algorithms.com/graph/bellman_ford.html",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "mst",
+      "title": "Minimum Spanning Tree - Kruskal",
+      "url": "https://cp-algorithms.com/graph/mst_kruskal.html",
+      "creator": "CP-Algorithms contributors",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://cp-algorithms.com/graph/mst_kruskal.html",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "fenwick",
+      "title": "Fenwick Tree",
+      "url": "https://cp-algorithms.com/data_structures/fenwick.html",
+      "creator": "CP-Algorithms contributors",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://cp-algorithms.com/data_structures/fenwick.html",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "segment",
+      "title": "Segment Tree",
+      "url": "https://cp-algorithms.com/data_structures/segment_tree.html",
+      "creator": "CP-Algorithms contributors",
+      "format": "Article",
+      "codeLanguage": "C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://cp-algorithms.com/data_structures/segment_tree.html",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "recursion",
+      "title": "Lecture 8 - Common Mistakes Stumbled Upon: 'I'terator",
+      "url": "https://see.stanford.edu/Course/CS106B/150",
+      "creator": "Julie Zelenski · Stanford SEE (2008 archive)",
+      "format": "Video",
+      "codeLanguage": "C++ with Stanford libraries; use the STL bridge below",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://see.stanford.edu/Course/CS106B/150",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "permutations",
+      "title": "Lecture 9 - Thinking Recursively",
+      "url": "https://see.stanford.edu/Course/CS106B/163",
+      "creator": "Julie Zelenski · Stanford SEE (2008 archive)",
+      "format": "Video",
+      "codeLanguage": "C++ with Stanford libraries; use the STL bridge below",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://see.stanford.edu/Course/CS106B/163",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "trie",
+      "title": "Lecture 25 - Lexicon Case Study",
+      "url": "https://see.stanford.edu/Course/CS106B/148",
+      "creator": "Julie Zelenski · Stanford SEE (2008 archive)",
+      "format": "Video",
+      "codeLanguage": "C++ with Stanford libraries; use the STL bridge below",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://see.stanford.edu/Course/CS106B/148",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "backtrack",
+      "title": "Lecture 11 - Backtracking Pseudocode",
+      "url": "https://see.stanford.edu/Course/CS106B/149",
+      "creator": "Julie Zelenski · Stanford SEE (2008 archive)",
+      "format": "Video",
+      "codeLanguage": "C++ with Stanford libraries; use the STL bridge below",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://see.stanford.edu/Course/CS106B/149",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "stack-queue",
+      "title": "Lecture 20 - Live Coding: Recap of the Vector-based Implementation for Stack",
+      "url": "https://see.stanford.edu/Course/CS106B/159",
+      "creator": "Julie Zelenski · Stanford SEE (2008 archive)",
+      "format": "Video",
+      "codeLanguage": "C++ with Stanford libraries; use the STL bridge below",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://see.stanford.edu/Course/CS106B/159",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "analysis",
+      "title": "Lecture 14 - Algorithm Analysis",
+      "url": "https://see.stanford.edu/Course/CS106B/164",
+      "creator": "Julie Zelenski · Stanford SEE (2008 archive)",
+      "format": "Video",
+      "codeLanguage": "C++ with Stanford libraries; use the STL bridge below",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://see.stanford.edu/Course/CS106B/164",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "m-array",
+      "title": "Lecture 2: Data Structures and Dynamic Arrays",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-2-data-structures-and-dynamic-arrays/",
+      "creator": "Erik Demaine · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-2-data-structures-and-dynamic-arrays/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "m-hash",
+      "title": "Lecture 4: Hashing",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-4-hashing/",
+      "creator": "Jason Ku · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-4-hashing/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "m-tree",
+      "title": "Lecture 6: Binary Trees, Part 1",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+      "creator": "Erik Demaine · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "m-heap",
+      "title": "Lecture 8: Binary Heaps",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-8-binary-heaps/",
+      "creator": "Erik Demaine · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-8-binary-heaps/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "m-bfs",
+      "title": "Lecture 9: Breadth-First Search",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-9-breadth-first-search/",
+      "creator": "Justin Solomon · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-9-breadth-first-search/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "m-dfs",
+      "title": "Lecture 10: Depth-First Search",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-10-depth-first-search/",
+      "creator": "Justin Solomon · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-10-depth-first-search/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "m-dp",
+      "title": "Lecture 15: Dynamic Programming, Part 1: SRTBOT, Fib, DAGs, Bowling",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-15-dynamic-programming-part-1-srtbot-fib-dags-bowling/",
+      "creator": "Erik Demaine · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-15-dynamic-programming-part-1-srtbot-fib-dags-bowling/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "m-lcs",
+      "title": "Lecture 16: Dynamic Programming, Part 2: LCS, LIS, Coins",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-16-dynamic-programming-part-2-lcs-lis-coins/",
+      "creator": "Erik Demaine · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-16-dynamic-programming-part-2-lcs-lis-coins/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "edit",
+      "title": "Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/",
+      "creator": "Erik Demaine · MIT OpenCourseWare",
+      "format": "Video",
+      "codeLanguage": "Python / pseudocode; implement in C++17",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "fiset",
+      "title": "Learn Data Structures from a Google Engineer - A Free 8-hour Course",
+      "url": "https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/",
+      "creator": "William Fiset · published by freeCodeCamp (2019)",
+      "format": "Video",
+      "codeLanguage": "Java; concepts transfer to C++",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "interviews",
+      "title": "Coding interview study plan - what to study and practice based on time left",
+      "url": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+      "creator": "Yangshun Tay · Tech Interview Handbook",
+      "format": "Article",
+      "codeLanguage": "Language independent",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "techniques",
+      "title": "Coding interview techniques",
+      "url": "https://www.techinterviewhandbook.org/coding-interview-techniques/",
+      "creator": "Yangshun Tay · Tech Interview Handbook",
+      "format": "Article",
+      "codeLanguage": "Language independent",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.techinterviewhandbook.org/coding-interview-techniques/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    },
+    {
+      "id": "merge-intervals",
+      "title": "Interval cheatsheet for coding interviews",
+      "url": "https://www.techinterviewhandbook.org/algorithms/interval/",
+      "creator": "Yangshun Tay · Tech Interview Handbook",
+      "format": "Article",
+      "codeLanguage": "Language independent",
+      "language": "English",
+      "access": "Free · no account needed to study",
+      "checkedOn": "2026-09-29",
+      "evidenceUrl": "https://www.techinterviewhandbook.org/algorithms/interval/",
+      "verification": "Publisher page and topic description checked; full video playback was not reviewed."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson-variables",
+      "primary": "variables",
+      "support": "io",
+      "section": "Values, types, and variable definitions; then cin and cout",
+      "prerequisites": [],
+      "practice": {
+        "title": "Input and Output",
+        "url": "https://www.hackerrank.com/challenges/cpp-input-and-output/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/cpp-input-and-output/problem"
+      }
+    },
+    {
+      "id": "lesson-conditions",
+      "primary": "conditions",
+      "support": "variables",
+      "section": "if, else, and Boolean conditions",
+      "prerequisites": [
+        "lesson-variables"
+      ],
+      "practice": {
+        "title": "Conditional Statements",
+        "url": "https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem"
+      }
+    },
+    {
+      "id": "lesson-loops",
+      "primary": "loops",
+      "support": "io",
+      "section": "Loop initialisation, stopping condition, and increment",
+      "prerequisites": [
+        "lesson-conditions"
+      ],
+      "practice": {
+        "title": "For Loop",
+        "url": "https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem"
+      }
+    },
+    {
+      "id": "lesson-functions",
+      "primary": "functions",
+      "support": "references",
+      "section": "Function calls and return flow; reference parameters",
+      "prerequisites": [
+        "lesson-loops"
+      ],
+      "practice": {
+        "title": "Functions",
+        "url": "https://www.hackerrank.com/challenges/c-tutorial-functions/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/c-tutorial-functions/problem"
+      }
+    },
+    {
+      "id": "lesson-vector",
+      "primary": "vector",
+      "support": "string",
+      "section": "Vector construction and indexed access; string size and indexing",
+      "prerequisites": [
+        "lesson-functions"
+      ],
+      "practice": {
+        "title": "Strings",
+        "url": "https://www.hackerrank.com/challenges/c-tutorial-strings/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/c-tutorial-strings/problem"
+      }
+    },
+    {
+      "id": "lesson-testing",
+      "primary": "testing",
+      "support": "loops",
+      "section": "Branch coverage, boundary cases, and checking predicted output",
+      "prerequisites": [
+        "lesson-vector"
+      ],
+      "practice": {
+        "title": "Arrays Introduction",
+        "url": "https://www.hackerrank.com/challenges/arrays-introduction/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/arrays-introduction/problem"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-readiness",
+      "primary": "testing",
+      "support": "loops",
+      "section": "Boundary cases and branch coverage",
+      "prerequisites": [
+        "lesson-testing"
+      ],
+      "practice": {
+        "title": "Arrays Introduction",
+        "url": "https://www.hackerrank.com/challenges/arrays-introduction/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/arrays-introduction/problem"
+      }
+    },
+    {
+      "id": "w1-d2",
+      "primary": "arrays",
+      "support": "v-array",
+      "section": "Arrays, dynamic arrays, and inserting/erasing; skip tuples",
+      "prerequisites": [
+        "lesson-checkpoint-readiness"
+      ],
+      "practice": {
+        "title": "Arrays - DS",
+        "url": "https://www.hackerrank.com/challenges/arrays-ds/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/arrays-ds/problem"
+      }
+    },
+    {
+      "id": "lesson-array-scans",
+      "primary": "arrays",
+      "support": "vector",
+      "section": "Iterating over an array",
+      "prerequisites": [
+        "w1-d2"
+      ],
+      "practice": {
+        "title": "Simple Array Sum",
+        "url": "https://www.hackerrank.com/challenges/simple-array-sum/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/simple-array-sum/problem"
+      }
+    },
+    {
+      "id": "w1-d1",
+      "primary": "analysis",
+      "support": "v-array",
+      "section": "Algorithm analysis: count operations before reading asymptotic notation",
+      "prerequisites": [
+        "lesson-array-scans"
+      ],
+      "practice": {
+        "title": "Simple Array Sum",
+        "url": "https://www.hackerrank.com/challenges/simple-array-sum/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/simple-array-sum/problem"
+      }
+    },
+    {
+      "id": "lesson-grid-basics",
+      "primary": "arrays",
+      "support": "vector",
+      "section": "Nested vectors: apply indexed access twice",
+      "prerequisites": [
+        "w1-d1"
+      ],
+      "practice": {
+        "title": "Richest Customer Wealth",
+        "url": "https://leetcode.com/problems/richest-customer-wealth/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/richest-customer-wealth/"
+      }
+    },
+    {
+      "id": "lesson-string-scan",
+      "primary": "string",
+      "support": "arrays",
+      "section": "String indexing and size; no two-pointer assumptions yet",
+      "prerequisites": [
+        "lesson-grid-basics"
+      ],
+      "practice": {
+        "title": "Score Of A String",
+        "url": "https://leetcode.com/problems/score-of-a-string/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/score-of-a-string/"
+      }
+    },
+    {
+      "id": "w1-d4",
+      "primary": "arrays",
+      "support": "v-array",
+      "section": "Array indexing and translating positions",
+      "prerequisites": [
+        "lesson-string-scan"
+      ],
+      "practice": {
+        "title": "Left Rotation",
+        "url": "https://www.hackerrank.com/challenges/array-left-rotation/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/array-left-rotation/problem"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-arrays",
+      "primary": "arrays",
+      "support": "vector",
+      "section": "Array traversal and indexed access; apply both to rows and columns",
+      "prerequisites": [
+        "w1-d4"
+      ],
+      "practice": {
+        "title": "Richest Customer Wealth",
+        "url": "https://leetcode.com/problems/richest-customer-wealth/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/richest-customer-wealth/"
+      }
+    },
+    {
+      "id": "w2-d2",
+      "primary": "maps",
+      "support": "v-hash",
+      "section": "Maps and hashsets; choose C++ and skip ordered-set implementation",
+      "prerequisites": [
+        "lesson-checkpoint-arrays"
+      ],
+      "practice": {
+        "title": "Sparse Arrays",
+        "url": "https://www.hackerrank.com/challenges/sparse-arrays/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/sparse-arrays/problem"
+      }
+    },
+    {
+      "id": "w2-d3",
+      "primary": "maps",
+      "support": "string",
+      "section": "Frequency counting with a map or fixed alphabet array",
+      "prerequisites": [
+        "w2-d2"
+      ],
+      "practice": {
+        "title": "Valid Anagram",
+        "url": "https://leetcode.com/problems/valid-anagram/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/valid-anagram/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/valid-anagram"
+    },
+    {
+      "id": "w2-d4",
+      "primary": "maps",
+      "support": "v-hash",
+      "section": "Map lookup and insertion; query before inserting the current element",
+      "prerequisites": [
+        "w2-d3"
+      ],
+      "practice": {
+        "title": "Two Sum",
+        "url": "https://leetcode.com/problems/two-sum/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/two-sum/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/two-sum"
+    },
+    {
+      "id": "w1-d5",
+      "primary": "prefix",
+      "support": "v-array",
+      "section": "Prefix sum definition and range subtraction",
+      "prerequisites": [
+        "w2-d4"
+      ],
+      "practice": {
+        "title": "Running Sum Of 1D Array",
+        "url": "https://leetcode.com/problems/running-sum-of-1d-array/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/running-sum-of-1d-array/"
+      }
+    },
+    {
+      "id": "lesson-two-pointers",
+      "primary": "pointers",
+      "support": "string",
+      "section": "Two pointers moving from opposite ends",
+      "prerequisites": [
+        "w1-d5"
+      ],
+      "practice": {
+        "title": "Valid Palindrome",
+        "url": "https://leetcode.com/problems/valid-palindrome/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/valid-palindrome/"
+      }
+    },
+    {
+      "id": "w11-d4",
+      "primary": "pointers",
+      "support": "prefix",
+      "section": "Sliding window section: fixed-length window first",
+      "prerequisites": [
+        "lesson-two-pointers"
+      ],
+      "practice": {
+        "title": "Maximum Average Subarray I",
+        "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/maximum-average-subarray-i/"
+      }
+    },
+    {
+      "id": "w11-d5",
+      "primary": "pointers",
+      "support": "maps",
+      "section": "Sliding window section: maintain a validity condition",
+      "prerequisites": [
+        "w11-d4"
+      ],
+      "practice": {
+        "title": "Longest Substring Without Repeating Characters",
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+      }
+    },
+    {
+      "id": "lesson-prefix-hash",
+      "primary": "prefix",
+      "support": "maps",
+      "section": "Combine prefix differences with frequency-map lookup",
+      "prerequisites": [
+        "w11-d5"
+      ],
+      "practice": {
+        "title": "Subarray Sum Equals K",
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/subarray-sum-equals-k/"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-patterns",
+      "primary": "prefix",
+      "support": "maps",
+      "section": "Range subtraction and storing previous prefix frequencies",
+      "prerequisites": [
+        "lesson-prefix-hash"
+      ],
+      "practice": {
+        "title": "Subarray Sum Equals K",
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/subarray-sum-equals-k/"
+      }
+    },
+    {
+      "id": "lesson-recursion-basics",
+      "primary": "recursion",
+      "support": "v-recursion",
+      "section": "00:00:29–00:14:20 · recursion, powers, and call mechanics",
+      "prerequisites": [
+        "lesson-checkpoint-patterns"
+      ],
+      "practice": {
+        "title": "Fibonacci Number",
+        "url": "https://leetcode.com/problems/fibonacci-number/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/fibonacci-number/"
+      }
+    },
+    {
+      "id": "lesson-elementary-sort",
+      "primary": "v-sort",
+      "support": "sorting",
+      "section": "Select Selection Sort and Bubble Sort separately; trace three values",
+      "prerequisites": [
+        "lesson-recursion-basics"
+      ],
+      "practice": {
+        "title": "Sorting: Bubble Sort",
+        "url": "https://www.hackerrank.com/challenges/ctci-bubble-sort/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/ctci-bubble-sort/problem"
+      }
+    },
+    {
+      "id": "w3-d2",
+      "primary": "v-sort",
+      "support": "sorting",
+      "section": "Insertion Sort mode and its sorted-prefix invariant",
+      "prerequisites": [
+        "lesson-elementary-sort"
+      ],
+      "practice": {
+        "title": "Insertion Sort - Part 1",
+        "url": "https://www.hackerrank.com/challenges/insertionsort1/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/insertionsort1/problem"
+      }
+    },
+    {
+      "id": "lesson-merge-sort",
+      "primary": "v-sort",
+      "support": "recursion",
+      "section": "Merge Sort mode; follow split, recursive calls, and merge",
+      "prerequisites": [
+        "w3-d2"
+      ],
+      "practice": {
+        "title": "Sort An Array",
+        "url": "https://leetcode.com/problems/sort-an-array/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/sort-an-array/"
+      }
+    },
+    {
+      "id": "w3-d4",
+      "primary": "binary",
+      "support": "v-array",
+      "section": "Binary search on sorted arrays; skip binary search on the answer",
+      "prerequisites": [
+        "lesson-merge-sort"
+      ],
+      "practice": {
+        "title": "Binary Search",
+        "url": "https://leetcode.com/problems/binary-search/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/binary-search/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/binary-search"
+    },
+    {
+      "id": "w3-d5",
+      "primary": "binary",
+      "support": "sorting",
+      "section": "First true / lower-bound binary search",
+      "prerequisites": [
+        "w3-d4"
+      ],
+      "practice": {
+        "title": "Find First And Last Position Of Element In Sorted Array",
+        "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-search",
+      "primary": "binary",
+      "support": "sorting",
+      "section": "Lower-bound search and termination",
+      "prerequisites": [
+        "w3-d5"
+      ],
+      "practice": {
+        "title": "Search Insert Position",
+        "url": "https://leetcode.com/problems/search-insert-position/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/search-insert-position/"
+      }
+    },
+    {
+      "id": "w4-d1",
+      "primary": "v-list",
+      "support": "references",
+      "section": "Singly Linked List: traversal and node pointers",
+      "prerequisites": [
+        "lesson-checkpoint-search"
+      ],
+      "practice": {
+        "title": "Print the Elements of a Linked List",
+        "url": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem"
+      }
+    },
+    {
+      "id": "w4-d2",
+      "primary": "v-list",
+      "support": "references",
+      "section": "Singly Linked List: insert at head and tail",
+      "prerequisites": [
+        "w4-d1"
+      ],
+      "practice": {
+        "title": "Insert a Node at the Tail of a Linked List",
+        "url": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem"
+      }
+    },
+    {
+      "id": "w4-d3",
+      "primary": "stack-queue",
+      "support": "v-list",
+      "section": "00:01:40–00:15:39 · vector and linked-list stacks",
+      "prerequisites": [
+        "w4-d2"
+      ],
+      "practice": {
+        "title": "Valid Parentheses",
+        "url": "https://leetcode.com/problems/valid-parentheses/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/valid-parentheses/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/valid-parentheses"
+    },
+    {
+      "id": "lesson-queue-basics",
+      "primary": "stack-queue",
+      "support": "v-list",
+      "section": "00:15:39–00:30:24 · queue implementation",
+      "prerequisites": [
+        "w4-d3"
+      ],
+      "practice": {
+        "title": "Number Of Students Unable To Eat Lunch",
+        "url": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/"
+      }
+    },
+    {
+      "id": "lesson-two-stack-queue",
+      "primary": "stack-queue",
+      "support": "v-list",
+      "section": "Compare stack order with FIFO queue order",
+      "prerequisites": [
+        "lesson-queue-basics"
+      ],
+      "practice": {
+        "title": "Implement Queue Using Stacks",
+        "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/implement-queue-using-stacks/"
+      }
+    },
+    {
+      "id": "w4-d5",
+      "primary": "monotonic",
+      "support": "v-list",
+      "section": "Monotonic stack section; derive the decreasing-order rule and trace next-greater values",
+      "prerequisites": [
+        "lesson-two-stack-queue"
+      ],
+      "practice": {
+        "title": "Next Greater Element I",
+        "url": "https://leetcode.com/problems/next-greater-element-i/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/next-greater-element-i/"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-linear",
+      "primary": "stack-queue",
+      "support": "v-list",
+      "section": "Stack and queue operations; test empty structures",
+      "prerequisites": [
+        "w4-d5"
+      ],
+      "practice": {
+        "title": "Valid Parentheses",
+        "url": "https://leetcode.com/problems/valid-parentheses/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/valid-parentheses/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/valid-parentheses"
+    },
+    {
+      "id": "w5-d2",
+      "primary": "recursion",
+      "support": "v-recursion",
+      "section": "00:36:56–end · choosing a subset",
+      "prerequisites": [
+        "lesson-checkpoint-linear"
+      ],
+      "practice": {
+        "title": "Subsets",
+        "url": "https://leetcode.com/problems/subsets/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/subsets/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/subsets"
+    },
+    {
+      "id": "w5-d3",
+      "primary": "permutations",
+      "support": "v-recursion",
+      "section": "00:37:18–end · permutations, implementation, and recursive call tree",
+      "prerequisites": [
+        "w5-d2"
+      ],
+      "practice": {
+        "title": "Permutations",
+        "url": "https://leetcode.com/problems/permutations/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/permutations/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/permutations"
+    },
+    {
+      "id": "lesson-pruning",
+      "primary": "backtrack",
+      "support": "v-recursion",
+      "section": "00:19:15–00:29:05 · compare a naive and smarter solver",
+      "prerequisites": [
+        "w5-d3"
+      ],
+      "practice": {
+        "title": "Combination Sum",
+        "url": "https://leetcode.com/problems/combination-sum/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/combination-sum/"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-backtracking",
+      "primary": "recursion",
+      "support": "v-recursion",
+      "section": "00:36:56–end · choosing a subset",
+      "prerequisites": [
+        "lesson-pruning"
+      ],
+      "practice": {
+        "title": "Subsets",
+        "url": "https://leetcode.com/problems/subsets/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/subsets/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/subsets"
+    },
+    {
+      "id": "w6-d1",
+      "primary": "m-tree",
+      "support": "v-tree",
+      "section": "Binary tree representation and traversal; leave balancing for the extension",
+      "prerequisites": [
+        "lesson-checkpoint-backtracking"
+      ],
+      "practice": {
+        "title": "Binary Tree Preorder Traversal",
+        "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+      }
+    },
+    {
+      "id": "lesson-tree-depth",
+      "primary": "m-tree",
+      "support": "v-tree",
+      "section": "Recursive tree traversal and subtree results",
+      "prerequisites": [
+        "w6-d1"
+      ],
+      "practice": {
+        "title": "Maximum Depth Of Binary Tree",
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+      }
+    },
+    {
+      "id": "lesson-tree-balance",
+      "primary": "m-tree",
+      "support": "v-tree",
+      "section": "Subtree height; distinguish checking balance from performing rotations",
+      "prerequisites": [
+        "lesson-tree-depth"
+      ],
+      "practice": {
+        "title": "Balanced Binary Tree",
+        "url": "https://leetcode.com/problems/balanced-binary-tree/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/balanced-binary-tree/"
+      }
+    },
+    {
+      "id": "w6-d3",
+      "primary": "m-tree",
+      "support": "v-tree",
+      "section": "BST ordering and search; use the unbalanced BST mode",
+      "prerequisites": [
+        "lesson-tree-balance"
+      ],
+      "practice": {
+        "title": "Search In A Binary Search Tree",
+        "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+      }
+    },
+    {
+      "id": "lesson-heap-basics",
+      "primary": "m-heap",
+      "support": "v-heap",
+      "section": "Heap property, array representation, and insertion/removal",
+      "prerequisites": [
+        "w6-d3"
+      ],
+      "practice": {
+        "title": "Last Stone Weight",
+        "url": "https://leetcode.com/problems/last-stone-weight/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/last-stone-weight/"
+      }
+    },
+    {
+      "id": "w6-d4",
+      "primary": "m-heap",
+      "support": "v-heap",
+      "section": "Priority queues and bounded-heap selection",
+      "prerequisites": [
+        "lesson-heap-basics"
+      ],
+      "practice": {
+        "title": "Kth Largest Element In An Array",
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+      }
+    },
+    {
+      "id": "w6-d5",
+      "primary": "m-heap",
+      "support": "v-heap",
+      "section": "Heap removal and restoring the invariant",
+      "prerequisites": [
+        "w6-d4"
+      ],
+      "practice": {
+        "title": "Last Stone Weight",
+        "url": "https://leetcode.com/problems/last-stone-weight/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/last-stone-weight/"
+      }
+    },
+    {
+      "id": "lesson-trie",
+      "primary": "trie",
+      "support": "string",
+      "section": "Trie section in the lexicon case study; focus on prefix sharing and word-end flags",
+      "prerequisites": [
+        "w6-d5"
+      ],
+      "practice": {
+        "title": "Implement Trie Prefix Tree",
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-trees",
+      "primary": "m-tree",
+      "support": "v-tree",
+      "section": "Tree representation and inorder traversal",
+      "prerequisites": [
+        "lesson-trie"
+      ],
+      "practice": {
+        "title": "Binary Tree Inorder Traversal",
+        "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+      }
+    },
+    {
+      "id": "lesson-graph-representation",
+      "primary": "graphs",
+      "support": "v-graph",
+      "section": "Vertices, edges, adjacency lists, and directed versus undirected graphs",
+      "prerequisites": [
+        "lesson-checkpoint-trees"
+      ],
+      "practice": {
+        "title": "Find Center Of Star Graph",
+        "url": "https://leetcode.com/problems/find-center-of-star-graph/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/find-center-of-star-graph/"
+      }
+    },
+    {
+      "id": "w7-d2",
+      "primary": "m-dfs",
+      "support": "v-graph",
+      "section": "DFS discovery and visited state",
+      "prerequisites": [
+        "lesson-graph-representation"
+      ],
+      "practice": {
+        "title": "Number Of Islands",
+        "url": "https://leetcode.com/problems/number-of-islands/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/number-of-islands/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/number-of-islands"
+    },
+    {
+      "id": "w7-d3",
+      "primary": "m-bfs",
+      "support": "v-graph",
+      "section": "BFS layers and unweighted shortest paths",
+      "prerequisites": [
+        "w7-d2"
+      ],
+      "practice": {
+        "title": "Shortest Path In Binary Matrix",
+        "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix/"
+      }
+    },
+    {
+      "id": "w7-d4",
+      "primary": "m-dfs",
+      "support": "v-graph",
+      "section": "DFS forests and restarting from unvisited vertices",
+      "prerequisites": [
+        "w7-d3"
+      ],
+      "practice": {
+        "title": "Counting Rooms",
+        "url": "https://cses.fi/problemset/task/1192",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1192"
+      }
+    },
+    {
+      "id": "lesson-graph-cycles",
+      "primary": "m-dfs",
+      "support": "v-graph",
+      "section": "DFS parent edges and cycle detection; distinguish directed cycles",
+      "prerequisites": [
+        "w7-d4"
+      ],
+      "practice": {
+        "title": "Round Trip",
+        "url": "https://cses.fi/problemset/task/1669",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1669"
+      }
+    },
+    {
+      "id": "w8-d1",
+      "primary": "topo",
+      "support": "m-dfs",
+      "section": "DAG ordering; contrast DFS finish order with an indegree queue",
+      "prerequisites": [
+        "lesson-graph-cycles"
+      ],
+      "practice": {
+        "title": "Course Schedule",
+        "url": "https://leetcode.com/problems/course-schedule/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/course-schedule/"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-graphs",
+      "primary": "m-bfs",
+      "support": "v-graph",
+      "section": "BFS layers, parent pointers, and path reconstruction",
+      "prerequisites": [
+        "w8-d1"
+      ],
+      "practice": {
+        "title": "Message Route",
+        "url": "https://cses.fi/problemset/task/1667",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1667"
+      }
+    },
+    {
+      "id": "w9-d1",
+      "primary": "greedy",
+      "support": "sorting",
+      "section": "Local choices and counterexamples",
+      "prerequisites": [
+        "lesson-checkpoint-graphs"
+      ],
+      "practice": {
+        "title": "Assign Cookies",
+        "url": "https://leetcode.com/problems/assign-cookies/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/assign-cookies/"
+      }
+    },
+    {
+      "id": "w9-d2",
+      "primary": "intervals",
+      "support": "greedy",
+      "section": "Movie Festival section and earliest-finish argument",
+      "prerequisites": [
+        "w9-d1"
+      ],
+      "practice": {
+        "title": "Movie Festival",
+        "url": "https://cses.fi/problemset/task/1629",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1629"
+      }
+    },
+    {
+      "id": "w9-d3",
+      "primary": "merge-intervals",
+      "support": "sorting",
+      "section": "Sorting intervals; apply the current-merged-range invariant",
+      "prerequisites": [
+        "w9-d2"
+      ],
+      "practice": {
+        "title": "Merge Intervals",
+        "url": "https://leetcode.com/problems/merge-intervals/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/merge-intervals/"
+      }
+    },
+    {
+      "id": "lesson-overlap",
+      "primary": "intervals",
+      "support": "sorting",
+      "section": "Restaurant Customers section; sweep events in chronological order",
+      "prerequisites": [
+        "w9-d3"
+      ],
+      "practice": {
+        "title": "Restaurant Customers",
+        "url": "https://cses.fi/problemset/task/1619",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1619"
+      }
+    },
+    {
+      "id": "w9-d5",
+      "primary": "greedy",
+      "support": "arrays",
+      "section": "Greedy invariant: all indices up to the frontier are reachable",
+      "prerequisites": [
+        "lesson-overlap"
+      ],
+      "practice": {
+        "title": "Jump Game",
+        "url": "https://leetcode.com/problems/jump-game/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/jump-game/"
+      }
+    },
+    {
+      "id": "lesson-checkpoint-greedy",
+      "primary": "intervals",
+      "support": "sorting",
+      "section": "Restaurant Customers: sort events and track active intervals",
+      "prerequisites": [
+        "w9-d5"
+      ],
+      "practice": {
+        "title": "Restaurant Customers",
+        "url": "https://cses.fi/problemset/task/1619",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1619"
+      }
+    },
+    {
+      "id": "w10-d1",
+      "primary": "m-dp",
+      "support": "dp",
+      "section": "Fibonacci and subproblem design; skip DAG and bowling sections on the first pass",
+      "prerequisites": [
+        "lesson-checkpoint-greedy"
+      ],
+      "practice": {
+        "title": "Climbing Stairs",
+        "url": "https://leetcode.com/problems/climbing-stairs/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/climbing-stairs/"
+      }
+    },
+    {
+      "id": "lesson-dp-state",
+      "primary": "dp",
+      "support": "v-recursion",
+      "section": "Memoisation, base cases, and bottom-up order",
+      "prerequisites": [
+        "w10-d1"
+      ],
+      "practice": {
+        "title": "Min Cost Climbing Stairs",
+        "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+      }
+    },
+    {
+      "id": "w10-d3",
+      "primary": "m-dp",
+      "support": "dp",
+      "section": "Subproblem and recurrence design; apply it to an index and a take/skip decision",
+      "prerequisites": [
+        "lesson-dp-state"
+      ],
+      "practice": {
+        "title": "House Robber",
+        "url": "https://leetcode.com/problems/house-robber/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/house-robber/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/house-robber"
+    },
+    {
+      "id": "w10-d4",
+      "primary": "grid-dp",
+      "support": "v-recursion",
+      "section": "Counting monotone paths; skip obstacles until the basic recurrence works",
+      "prerequisites": [
+        "w10-d3"
+      ],
+      "practice": {
+        "title": "Unique Paths",
+        "url": "https://leetcode.com/problems/unique-paths/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/unique-paths/"
+      }
+    },
+    {
+      "id": "w10-d5",
+      "primary": "m-lcs",
+      "support": "dp",
+      "section": "Coins subproblem section; distinguish minimising coins from counting combinations",
+      "prerequisites": [
+        "w10-d4"
+      ],
+      "practice": {
+        "title": "Coin Change",
+        "url": "https://leetcode.com/problems/coin-change/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/coin-change/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/coin-change"
+    },
+    {
+      "id": "lesson-knapsack",
+      "primary": "knapsack",
+      "support": "dp",
+      "section": "0/1 knapsack; defer unbounded and advanced variants",
+      "prerequisites": [
+        "w10-d5"
+      ],
+      "practice": {
+        "title": "Book Shop",
+        "url": "https://cses.fi/problemset/task/1158",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1158"
+      }
+    },
+    {
+      "id": "w11-d2",
+      "primary": "m-lcs",
+      "support": "grid-dp",
+      "section": "LCS section; skip LIS until this table is clear",
+      "prerequisites": [
+        "lesson-knapsack"
+      ],
+      "practice": {
+        "title": "Longest Common Subsequence",
+        "url": "https://leetcode.com/problems/longest-common-subsequence/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/longest-common-subsequence/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/longest-common-subsequence"
+    },
+    {
+      "id": "w11-d3",
+      "primary": "edit",
+      "support": "grid-dp",
+      "section": "Edit distance section only; leave parenthesisation and knapsack review optional",
+      "prerequisites": [
+        "w11-d2"
+      ],
+      "practice": {
+        "title": "Edit Distance",
+        "url": "https://leetcode.com/problems/edit-distance/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/edit-distance/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/edit-distance"
+    },
+    {
+      "id": "lesson-checkpoint-dp",
+      "primary": "m-dp",
+      "support": "dp",
+      "section": "Subproblem design, recurrence, base cases, and evaluation order",
+      "prerequisites": [
+        "w11-d3"
+      ],
+      "practice": {
+        "title": "Dice Combinations",
+        "url": "https://cses.fi/problemset/task/1633",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1633"
+      }
+    },
+    {
+      "id": "lesson-array-mock",
+      "primary": "interviews",
+      "support": "pointers",
+      "section": "Topic revision and practising unfamiliar prompts",
+      "prerequisites": [
+        "lesson-checkpoint-dp"
+      ],
+      "practice": {
+        "title": "Container With Most Water",
+        "url": "https://leetcode.com/problems/container-with-most-water/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/container-with-most-water/"
+      }
+    },
+    {
+      "id": "lesson-tree-graph-mock",
+      "primary": "interviews",
+      "support": "v-graph",
+      "section": "Clarifying the data model before choosing traversal",
+      "prerequisites": [
+        "lesson-array-mock"
+      ],
+      "practice": {
+        "title": "Binary Tree Level Order Traversal",
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+      }
+    },
+    {
+      "id": "lesson-dp-greedy-mock",
+      "primary": "techniques",
+      "support": "dp",
+      "section": "Counterexamples and a brute-force baseline before optimisation",
+      "prerequisites": [
+        "lesson-tree-graph-mock"
+      ],
+      "practice": {
+        "title": "Coin Change",
+        "url": "https://leetcode.com/problems/coin-change/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/coin-change/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/coin-change"
+    },
+    {
+      "id": "lesson-resolve",
+      "primary": "interviews",
+      "support": "testing",
+      "section": "Revisiting earlier problems and checking boundaries",
+      "prerequisites": [
+        "lesson-dp-greedy-mock"
+      ],
+      "practice": {
+        "title": "Two Sum",
+        "url": "https://leetcode.com/problems/two-sum/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/two-sum/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/two-sum"
+    },
+    {
+      "id": "lesson-pattern-sheet",
+      "primary": "techniques",
+      "support": "interviews",
+      "section": "Recognising patterns while stating their assumptions",
+      "prerequisites": [
+        "lesson-resolve"
+      ],
+      "practice": {
+        "title": "Longest Substring Without Repeating Characters",
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+      }
+    },
+    {
+      "id": "lesson-final-mock",
+      "primary": "interviews",
+      "support": "testing",
+      "section": "Mock interviews: explain, implement, test, and reflect",
+      "prerequisites": [
+        "lesson-pattern-sheet"
+      ],
+      "practice": {
+        "title": "House Robber",
+        "url": "https://leetcode.com/problems/house-robber/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/house-robber/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/house-robber"
+    },
+    {
+      "id": "lesson-checkpoint-interviews",
+      "primary": "interviews",
+      "support": "testing",
+      "section": "Mock interview structure and boundary testing",
+      "prerequisites": [
+        "lesson-final-mock"
+      ],
+      "practice": {
+        "title": "Binary Tree Level Order Traversal",
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+      }
+    },
+    {
+      "id": "w5-d4",
+      "primary": "bits",
+      "support": "variables",
+      "section": "AND, OR, XOR, shifts, and masks",
+      "prerequisites": [
+        "lesson-checkpoint-readiness"
+      ],
+      "practice": {
+        "title": "Number Of 1 Bits",
+        "url": "https://leetcode.com/problems/number-of-1-bits/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/number-of-1-bits/"
+      }
+    },
+    {
+      "id": "lesson-bit-subsets",
+      "primary": "bits",
+      "support": "v-recursion",
+      "section": "Use one bit per include/exclude choice; this is enumeration, not modular counting",
+      "prerequisites": [
+        "w5-d4",
+        "w5-d2"
+      ],
+      "practice": {
+        "title": "Subsets",
+        "url": "https://leetcode.com/problems/subsets/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/subsets/"
+      },
+      "solutionUrl": "https://neetcode.io/solutions/subsets"
+    },
+    {
+      "id": "w8-d3",
+      "primary": "dsu",
+      "support": "v-graph",
+      "section": "Naive DSU before path compression and union by size",
+      "prerequisites": [
+        "lesson-checkpoint-graphs"
+      ],
+      "practice": {
+        "title": "Number Of Provinces",
+        "url": "https://leetcode.com/problems/number-of-provinces/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/number-of-provinces/"
+      }
+    },
+    {
+      "id": "w8-d2",
+      "primary": "dijkstra",
+      "support": "v-graph",
+      "section": "Relaxation and the settled-distance invariant",
+      "prerequisites": [
+        "lesson-checkpoint-graphs",
+        "w6-d4"
+      ],
+      "practice": {
+        "title": "Network Delay Time",
+        "url": "https://leetcode.com/problems/network-delay-time/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/network-delay-time/"
+      }
+    },
+    {
+      "id": "w8-d4",
+      "primary": "mst",
+      "support": "dsu",
+      "section": "Sorted edges and avoiding cycles",
+      "prerequisites": [
+        "w8-d3",
+        "lesson-checkpoint-greedy"
+      ],
+      "practice": {
+        "title": "Road Reparation",
+        "url": "https://cses.fi/problemset/task/1675",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1675"
+      }
+    },
+    {
+      "id": "lesson-bellman",
+      "primary": "bellman",
+      "support": "dijkstra",
+      "section": "Edge relaxation and negative-cycle detection",
+      "prerequisites": [
+        "w8-d2"
+      ],
+      "practice": {
+        "title": "Cycle Finding",
+        "url": "https://cses.fi/problemset/task/1197",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1197"
+      }
+    },
+    {
+      "id": "lesson-avl",
+      "primary": "v-tree",
+      "support": "m-tree",
+      "section": "AVL mode: heights and rotations; contrast rotations with rebuilding",
+      "prerequisites": [
+        "lesson-checkpoint-trees"
+      ],
+      "practice": {
+        "title": "Balance A Binary Search Tree",
+        "url": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/"
+      }
+    },
+    {
+      "id": "lesson-fenwick",
+      "primary": "fenwick",
+      "support": "prefix",
+      "section": "One-based indexing and low-bit jumps",
+      "prerequisites": [
+        "w1-d5",
+        "w5-d4"
+      ],
+      "practice": {
+        "title": "Dynamic Range Sum Queries",
+        "url": "https://cses.fi/problemset/task/1648",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1648"
+      }
+    },
+    {
+      "id": "lesson-segment",
+      "primary": "segment",
+      "support": "prefix",
+      "section": "Build, range query, and point update; skip lazy propagation",
+      "prerequisites": [
+        "lesson-checkpoint-trees",
+        "w1-d5"
+      ],
+      "practice": {
+        "title": "Dynamic Range Minimum Queries",
+        "url": "https://cses.fi/problemset/task/1649",
+        "access": "Free problem · free account required to submit",
+        "language": "Use C++17-compatible code",
+        "evidenceUrl": "https://cses.fi/problemset/task/1649"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1830 @@
+[
+  {
+    "oldId": "w1-d1",
+    "oldTitle": "How algorithms grow",
+    "action": "move",
+    "reason": "Move complexity after concrete scans; select algorithm-analysis teaching rather than an entire course landing page.",
+    "oldVideo": {
+      "title": "Big O Notation — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=0IAPZzGSbME"
+    },
+    "oldPractice": {
+      "title": "Simple Array Sum",
+      "url": "https://www.hackerrank.com/challenges/simple-array-sum/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w1-d1",
+        "title": "How algorithms grow",
+        "primary": "https://see.stanford.edu/Course/CS106B/164",
+        "support": "https://visualgo.net/en/array",
+        "practice": "https://www.hackerrank.com/challenges/simple-array-sum/problem"
+      }
+    ]
+  },
+  {
+    "oldId": "w1-d2",
+    "oldTitle": "Arrays in memory",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Arrays — mycodeschool",
+      "url": "https://www.youtube.com/watch?v=QJNwK2uJyGs"
+    },
+    "oldPractice": {
+      "title": "Arrays: DS",
+      "url": "https://www.hackerrank.com/challenges/arrays-ds/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w1-d2",
+        "title": "Arrays in memory",
+        "primary": "https://usaco.guide/bronze/intro-ds",
+        "support": "https://visualgo.net/en/array",
+        "practice": "https://www.hackerrank.com/challenges/arrays-ds/problem"
+      }
+    ]
+  },
+  {
+    "oldId": "w1-d3",
+    "oldTitle": "2D grids",
+    "action": "replace",
+    "reason": "Replace the initial hourglass challenge with row sums; teach nested indices before a compound shape.",
+    "oldVideo": {
+      "title": "2D Arrays — CS Dojo",
+      "url": "https://www.youtube.com/watch?v=iqt-ropMXGE"
+    },
+    "oldPractice": {
+      "title": "2D Array: DS",
+      "url": "https://www.hackerrank.com/challenges/2d-array/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-grid-basics",
+        "title": "2D grids",
+        "primary": "https://usaco.guide/bronze/intro-ds",
+        "support": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdvector-and-list-constructors/",
+        "practice": "https://leetcode.com/problems/richest-customer-wealth/"
+      }
+    ]
+  },
+  {
+    "oldId": "w1-d4",
+    "oldTitle": "Rotation by k",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Array Rotation — take U forward",
+      "url": "https://www.youtube.com/watch?v=wvcQg43_V8U"
+    },
+    "oldPractice": {
+      "title": "Left Rotation",
+      "url": "https://www.hackerrank.com/challenges/array-left-rotation/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w1-d4",
+        "title": "Rotation by k",
+        "primary": "https://usaco.guide/bronze/intro-ds",
+        "support": "https://visualgo.net/en/array",
+        "practice": "https://www.hackerrank.com/challenges/array-left-rotation/problem"
+      }
+    ]
+  },
+  {
+    "oldId": "w1-d5",
+    "oldTitle": "Prefix sums",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Prefix Sum Array — take U forward",
+      "url": "https://www.youtube.com/watch?v=pVS3yhlzrlQ"
+    },
+    "oldPractice": {
+      "title": "Running Sum of 1D Array",
+      "url": "https://leetcode.com/problems/running-sum-of-1d-array/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w1-d5",
+        "title": "Prefix sums",
+        "primary": "https://usaco.guide/silver/prefix-sums",
+        "support": "https://visualgo.net/en/array",
+        "practice": "https://leetcode.com/problems/running-sum-of-1d-array/"
+      }
+    ]
+  },
+  {
+    "oldId": "w1-d6",
+    "oldTitle": "Arrays review",
+    "action": "replace",
+    "reason": "Replace the broad review bank with a stage checkpoint and a named assignment.",
+    "oldVideo": {
+      "title": "Arrays Review — William Fiset",
+      "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+    },
+    "oldPractice": {
+      "title": "Array revision",
+      "url": "https://www.hackerrank.com/domains/data-structures"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-arrays",
+        "title": "Arrays and strings: checkpoint",
+        "primary": "https://usaco.guide/bronze/intro-ds",
+        "support": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdvector-and-list-constructors/",
+        "practice": "https://leetcode.com/problems/richest-customer-wealth/"
+      }
+    ]
+  },
+  {
+    "oldId": "w2-d1",
+    "oldTitle": "Strings as arrays",
+    "action": "split",
+    "reason": "Split string indexing from two-pointer palindrome processing; the old lesson assumed an untaught pattern.",
+    "oldVideo": {
+      "title": "Two Pointer Technique — NeetCode",
+      "url": "https://www.youtube.com/watch?v=jER_hg9hMTQ"
+    },
+    "oldPractice": {
+      "title": "Valid Palindrome",
+      "url": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-string-scan",
+        "title": "Strings as indexed data",
+        "primary": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/",
+        "support": "https://usaco.guide/bronze/intro-ds",
+        "practice": "https://leetcode.com/problems/score-of-a-string/"
+      },
+      {
+        "id": "lesson-two-pointers",
+        "title": "Two pointers",
+        "primary": "https://usaco.guide/silver/two-pointers",
+        "support": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/",
+        "practice": "https://leetcode.com/problems/valid-palindrome/"
+      }
+    ]
+  },
+  {
+    "oldId": "w2-d2",
+    "oldTitle": "Frequency maps",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Hashing — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=shs0KM3wKv8"
+    },
+    "oldPractice": {
+      "title": "Sparse Arrays",
+      "url": "https://www.hackerrank.com/challenges/sparse-arrays/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w2-d2",
+        "title": "Frequency maps",
+        "primary": "https://usaco.guide/bronze/intro-sets",
+        "support": "https://visualgo.net/en/hashtable",
+        "practice": "https://www.hackerrank.com/challenges/sparse-arrays/problem"
+      }
+    ]
+  },
+  {
+    "oldId": "w2-d3",
+    "oldTitle": "Anagrams",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Valid Anagram — NeetCode",
+      "url": "https://www.youtube.com/watch?v=9UtInBqnCgA"
+    },
+    "oldPractice": {
+      "title": "Valid Anagram",
+      "url": "https://leetcode.com/problems/valid-anagram/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w2-d3",
+        "title": "Anagrams",
+        "primary": "https://usaco.guide/bronze/intro-sets",
+        "support": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/",
+        "practice": "https://leetcode.com/problems/valid-anagram/"
+      }
+    ]
+  },
+  {
+    "oldId": "w2-d4",
+    "oldTitle": "Two sum",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Two Sum — NeetCode",
+      "url": "https://www.youtube.com/watch?v=KLlXCFG5TnA"
+    },
+    "oldPractice": {
+      "title": "Two Sum",
+      "url": "https://leetcode.com/problems/two-sum/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w2-d4",
+        "title": "Two sum",
+        "primary": "https://usaco.guide/bronze/intro-sets",
+        "support": "https://visualgo.net/en/hashtable",
+        "practice": "https://leetcode.com/problems/two-sum/"
+      }
+    ]
+  },
+  {
+    "oldId": "w2-d5",
+    "oldTitle": "Longest subarray",
+    "action": "replace",
+    "reason": "Replace the generic A2Z task with an exact prefix-hash problem; explain why negatives break positive-only windows.",
+    "oldVideo": {
+      "title": "Longest Subarray with Sum K — take U forward",
+      "url": "https://www.youtube.com/watch?v=frf7qxiN2qU"
+    },
+    "oldPractice": {
+      "title": "Longest Subarray with Sum K",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-prefix-hash",
+        "title": "Prefix sums with hashing",
+        "primary": "https://usaco.guide/silver/prefix-sums",
+        "support": "https://usaco.guide/bronze/intro-sets",
+        "practice": "https://leetcode.com/problems/subarray-sum-equals-k/"
+      }
+    ]
+  },
+  {
+    "oldId": "w2-d6",
+    "oldTitle": "Hashing review",
+    "action": "replace",
+    "reason": "Replace the broad review bank with a stage checkpoint and a named assignment.",
+    "oldVideo": {
+      "title": "Hashing Deep Dive — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=shs0KM3wKv8"
+    },
+    "oldPractice": {
+      "title": "Hash table practice",
+      "url": "https://www.hackerrank.com/domains/data-structures"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-patterns",
+        "title": "Hashing and sequence patterns: checkpoint",
+        "primary": "https://usaco.guide/silver/prefix-sums",
+        "support": "https://usaco.guide/bronze/intro-sets",
+        "practice": "https://leetcode.com/problems/subarray-sum-equals-k/"
+      }
+    ]
+  },
+  {
+    "oldId": "w3-d1",
+    "oldTitle": "Selection & bubble sort",
+    "action": "replace",
+    "reason": "Replace the generic sheet link with an exact sorting assignment and separately trace both sorts.",
+    "oldVideo": {
+      "title": "Selection Sort & Bubble Sort — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=xWBP4lzkoyM"
+    },
+    "oldPractice": {
+      "title": "Selection Sort",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-elementary-sort",
+        "title": "Selection and bubble sort",
+        "primary": "https://visualgo.net/en/sorting",
+        "support": "https://usaco.guide/bronze/intro-sorting",
+        "practice": "https://www.hackerrank.com/challenges/ctci-bubble-sort/problem"
+      }
+    ]
+  },
+  {
+    "oldId": "w3-d2",
+    "oldTitle": "Insertion sort",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Insertion Sort — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=i-SKeOcBwko"
+    },
+    "oldPractice": {
+      "title": "Insertion Sort Part 1",
+      "url": "https://www.hackerrank.com/challenges/insertionsort1/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w3-d2",
+        "title": "Insertion sort",
+        "primary": "https://visualgo.net/en/sorting",
+        "support": "https://usaco.guide/bronze/intro-sorting",
+        "practice": "https://www.hackerrank.com/challenges/insertionsort1/problem"
+      }
+    ]
+  },
+  {
+    "oldId": "w3-d3",
+    "oldTitle": "Merge sort",
+    "action": "replace",
+    "reason": "Move after recursion and assign an exact merge-sort problem with a merge-first exercise.",
+    "oldVideo": {
+      "title": "Merge Sort — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=TzeBrDU-JaY"
+    },
+    "oldPractice": {
+      "title": "Merge Sort",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-merge-sort",
+        "title": "Merge sort",
+        "primary": "https://visualgo.net/en/sorting",
+        "support": "https://see.stanford.edu/Course/CS106B/150",
+        "practice": "https://leetcode.com/problems/sort-an-array/"
+      }
+    ]
+  },
+  {
+    "oldId": "w3-d4",
+    "oldTitle": "Binary search",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Binary Search — take U forward",
+      "url": "https://www.youtube.com/watch?v=f6UU7V3szVw"
+    },
+    "oldPractice": {
+      "title": "Binary Search",
+      "url": "https://leetcode.com/problems/binary-search/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w3-d4",
+        "title": "Binary search",
+        "primary": "https://usaco.guide/silver/binary-search",
+        "support": "https://visualgo.net/en/array",
+        "practice": "https://leetcode.com/problems/binary-search/"
+      }
+    ]
+  },
+  {
+    "oldId": "w3-d5",
+    "oldTitle": "Boundary search",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Binary Search on Answers — NeetCode",
+      "url": "https://www.youtube.com/watch?v=0H5s7eTHc90"
+    },
+    "oldPractice": {
+      "title": "First and Last Position",
+      "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w3-d5",
+        "title": "Boundary search",
+        "primary": "https://usaco.guide/silver/binary-search",
+        "support": "https://usaco.guide/bronze/intro-sorting",
+        "practice": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+      }
+    ]
+  },
+  {
+    "oldId": "w3-d6",
+    "oldTitle": "Sort & search review",
+    "action": "replace",
+    "reason": "Replace the broad review bank with a stage checkpoint and a named assignment.",
+    "oldVideo": {
+      "title": "Sorting Algorithms Review — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=HGK_5-RoF_I"
+    },
+    "oldPractice": {
+      "title": "Distinct Numbers",
+      "url": "https://cses.fi/problemset/task/1621"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-search",
+        "title": "Recursion, sorting, and searching: checkpoint",
+        "primary": "https://usaco.guide/silver/binary-search",
+        "support": "https://usaco.guide/bronze/intro-sorting",
+        "practice": "https://leetcode.com/problems/search-insert-position/"
+      }
+    ]
+  },
+  {
+    "oldId": "w4-d1",
+    "oldTitle": "Linked-list anatomy",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Linked Lists — mycodeschool",
+      "url": "https://www.youtube.com/watch?v=njTh_OwMljA"
+    },
+    "oldPractice": {
+      "title": "Print Linked List",
+      "url": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w4-d1",
+        "title": "Linked-list anatomy",
+        "primary": "https://visualgo.net/en/list",
+        "support": "https://www.learncpp.com/cpp-tutorial/pass-by-lvalue-reference/",
+        "practice": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem"
+      }
+    ]
+  },
+  {
+    "oldId": "w4-d2",
+    "oldTitle": "List insertion",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Linked List Insertion — mycodeschool",
+      "url": "https://www.youtube.com/watch?v=o5wJkJW3fCs"
+    },
+    "oldPractice": {
+      "title": "Insert a Node at the Tail",
+      "url": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w4-d2",
+        "title": "List insertion",
+        "primary": "https://visualgo.net/en/list",
+        "support": "https://www.learncpp.com/cpp-tutorial/pass-by-lvalue-reference/",
+        "practice": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem"
+      }
+    ]
+  },
+  {
+    "oldId": "w4-d3",
+    "oldTitle": "Stacks",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Stack Data Structure — take U forward",
+      "url": "https://www.youtube.com/watch?v=GYptUgnIM_I"
+    },
+    "oldPractice": {
+      "title": "Valid Parentheses",
+      "url": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w4-d3",
+        "title": "Stacks",
+        "primary": "https://see.stanford.edu/Course/CS106B/159",
+        "support": "https://visualgo.net/en/list",
+        "practice": "https://leetcode.com/problems/valid-parentheses/"
+      }
+    ]
+  },
+  {
+    "oldId": "w4-d4",
+    "oldTitle": "Queues",
+    "action": "split",
+    "reason": "Split basic FIFO operations from implementing a queue with two stacks.",
+    "oldVideo": {
+      "title": "Queue Data Structure — take U forward",
+      "url": "https://www.youtube.com/watch?v=zp6pBNbUB2U"
+    },
+    "oldPractice": {
+      "title": "Queue using Two Stacks",
+      "url": "https://leetcode.com/problems/implement-queue-using-stacks/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-queue-basics",
+        "title": "Queue operations",
+        "primary": "https://see.stanford.edu/Course/CS106B/159",
+        "support": "https://visualgo.net/en/list",
+        "practice": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/"
+      },
+      {
+        "id": "lesson-two-stack-queue",
+        "title": "A queue from two stacks",
+        "primary": "https://see.stanford.edu/Course/CS106B/159",
+        "support": "https://visualgo.net/en/list",
+        "practice": "https://leetcode.com/problems/implement-queue-using-stacks/"
+      }
+    ]
+  },
+  {
+    "oldId": "w4-d5",
+    "oldTitle": "Monotonic stacks",
+    "action": "keep",
+    "reason": "Add an explicit decreasing-stack derivation; basic stack mechanics alone do not teach the invariant.",
+    "oldVideo": {
+      "title": "Next Greater Element — NeetCode",
+      "url": "https://www.youtube.com/watch?v=Dq_ObZwTY_Q"
+    },
+    "oldPractice": {
+      "title": "Next Greater Element I",
+      "url": "https://leetcode.com/problems/next-greater-element-i/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w4-d5",
+        "title": "Monotonic stacks",
+        "primary": "https://usaco.guide/gold/stacks",
+        "support": "https://visualgo.net/en/list",
+        "practice": "https://leetcode.com/problems/next-greater-element-i/"
+      }
+    ]
+  },
+  {
+    "oldId": "w4-d6",
+    "oldTitle": "Linear review",
+    "action": "replace",
+    "reason": "Replace the broad review bank with a stage checkpoint and a named assignment.",
+    "oldVideo": {
+      "title": "Stacks & Queues Review — William Fiset",
+      "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+    },
+    "oldPractice": {
+      "title": "Stack and queue revision",
+      "url": "https://www.hackerrank.com/domains/data-structures"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-linear",
+        "title": "Linear structures: checkpoint",
+        "primary": "https://see.stanford.edu/Course/CS106B/159",
+        "support": "https://visualgo.net/en/list",
+        "practice": "https://leetcode.com/problems/valid-parentheses/"
+      }
+    ]
+  },
+  {
+    "oldId": "w5-d1",
+    "oldTitle": "Base cases",
+    "action": "replace",
+    "reason": "Replace Recursive Digit Sum as the first task with simple base cases and a small Fibonacci assignment.",
+    "oldVideo": {
+      "title": "Recursion Basics — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=M2uO2nMT0Bk"
+    },
+    "oldPractice": {
+      "title": "Recursive Digit Sum",
+      "url": "https://www.hackerrank.com/challenges/recursive-digit-sum/problem"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-recursion-basics",
+        "title": "Base cases and call stacks",
+        "primary": "https://see.stanford.edu/Course/CS106B/150",
+        "support": "https://visualgo.net/en/recursion",
+        "practice": "https://leetcode.com/problems/fibonacci-number/"
+      }
+    ]
+  },
+  {
+    "oldId": "w5-d2",
+    "oldTitle": "Subsequences",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Subsets — take U forward",
+      "url": "https://www.youtube.com/watch?v=45GCRpSWHoA"
+    },
+    "oldPractice": {
+      "title": "Subsets",
+      "url": "https://leetcode.com/problems/subsets/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w5-d2",
+        "title": "Subsets by choices",
+        "primary": "https://see.stanford.edu/Course/CS106B/150",
+        "support": "https://visualgo.net/en/recursion",
+        "practice": "https://leetcode.com/problems/subsets/"
+      }
+    ]
+  },
+  {
+    "oldId": "w5-d3",
+    "oldTitle": "Permutations",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Permutations — take U forward",
+      "url": "https://www.youtube.com/watch?v=YK78FU5Ffjw"
+    },
+    "oldPractice": {
+      "title": "Permutations",
+      "url": "https://leetcode.com/problems/permutations/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w5-d3",
+        "title": "Permutations",
+        "primary": "https://see.stanford.edu/Course/CS106B/163",
+        "support": "https://visualgo.net/en/recursion",
+        "practice": "https://leetcode.com/problems/permutations/"
+      }
+    ]
+  },
+  {
+    "oldId": "w5-d4",
+    "oldTitle": "Bit operations",
+    "action": "move",
+    "reason": "Move bit manipulation to an optional branch so it does not interrupt recursion foundations.",
+    "oldVideo": {
+      "title": "Bit Manipulation — take U forward",
+      "url": "https://www.youtube.com/watch?v=NLKQEOgBAnw"
+    },
+    "oldPractice": {
+      "title": "Number of 1 Bits",
+      "url": "https://leetcode.com/problems/number-of-1-bits/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w5-d4",
+        "title": "Bit operations",
+        "primary": "https://usaco.guide/silver/intro-bitwise",
+        "support": "https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/",
+        "practice": "https://leetcode.com/problems/number-of-1-bits/"
+      }
+    ]
+  },
+  {
+    "oldId": "w5-d5",
+    "oldTitle": "Bitmask subsets",
+    "action": "replace",
+    "reason": "Replace CSES Bit Strings: it counts 2^n modulo a constant, rather than enumerating subsets.",
+    "oldVideo": {
+      "title": "Bitmask DP — take U forward",
+      "url": "https://www.youtube.com/watch?v=4cShRHbFfhg"
+    },
+    "oldPractice": {
+      "title": "Bit Strings",
+      "url": "https://cses.fi/problemset/task/1617"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-bit-subsets",
+        "title": "Bitmask subsets",
+        "primary": "https://usaco.guide/silver/intro-bitwise",
+        "support": "https://visualgo.net/en/recursion",
+        "practice": "https://leetcode.com/problems/subsets/"
+      }
+    ]
+  },
+  {
+    "oldId": "w5-d6",
+    "oldTitle": "Recursion review",
+    "action": "replace",
+    "reason": "Replace a generic sheet with a concrete pruning task and a backtracking checkpoint.",
+    "oldVideo": {
+      "title": "Recursion Review — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=M2uO2nMT0Bk"
+    },
+    "oldPractice": {
+      "title": "Recursion revision",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-pruning",
+        "title": "Pruning a search",
+        "primary": "https://see.stanford.edu/Course/CS106B/149",
+        "support": "https://visualgo.net/en/recursion",
+        "practice": "https://leetcode.com/problems/combination-sum/"
+      }
+    ]
+  },
+  {
+    "oldId": "w6-d1",
+    "oldTitle": "Tree traversals",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Tree Traversals — take U forward",
+      "url": "https://www.youtube.com/watch?v=BHB0B1jFKQc"
+    },
+    "oldPractice": {
+      "title": "Binary Tree Preorder Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w6-d1",
+        "title": "Tree traversals",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+        "support": "https://visualgo.net/en/bst",
+        "practice": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+      }
+    ]
+  },
+  {
+    "oldId": "w6-d2",
+    "oldTitle": "Depth & balance",
+    "action": "split",
+    "reason": "Split maximum depth from balance: the previous max-depth question did not assess balance.",
+    "oldVideo": {
+      "title": "Max Depth of Binary Tree — NeetCode",
+      "url": "https://www.youtube.com/watch?v=hTM3phVI6YQ"
+    },
+    "oldPractice": {
+      "title": "Maximum Depth of Binary Tree",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-tree-depth",
+        "title": "Tree depth",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+        "support": "https://visualgo.net/en/bst",
+        "practice": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+      },
+      {
+        "id": "lesson-tree-balance",
+        "title": "Tree balance",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+        "support": "https://visualgo.net/en/bst",
+        "practice": "https://leetcode.com/problems/balanced-binary-tree/"
+      }
+    ]
+  },
+  {
+    "oldId": "w6-d3",
+    "oldTitle": "Binary search trees",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Binary Search Tree — take U forward",
+      "url": "https://www.youtube.com/watch?v=pYT9F8_LFTM"
+    },
+    "oldPractice": {
+      "title": "Search in a Binary Search Tree",
+      "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w6-d3",
+        "title": "Binary search trees",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+        "support": "https://visualgo.net/en/bst",
+        "practice": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+      }
+    ]
+  },
+  {
+    "oldId": "w6-d4",
+    "oldTitle": "Heap basics",
+    "action": "split",
+    "reason": "Add heap operations before top-k; retain the original top-k objective and ID.",
+    "oldVideo": {
+      "title": "Heap Data Structure — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=0wPlzMU-k00"
+    },
+    "oldPractice": {
+      "title": "Kth Largest Element",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-heap-basics",
+        "title": "Heap operations",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-8-binary-heaps/",
+        "support": "https://visualgo.net/en/heap",
+        "practice": "https://leetcode.com/problems/last-stone-weight/"
+      },
+      {
+        "id": "w6-d4",
+        "title": "Top k with heaps",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-8-binary-heaps/",
+        "support": "https://visualgo.net/en/heap",
+        "practice": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+      }
+    ]
+  },
+  {
+    "oldId": "w6-d5",
+    "oldTitle": "Heap pop",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Heap Operations — William Fiset",
+      "url": "https://www.youtube.com/watch?v=AE5I0xACpZs"
+    },
+    "oldPractice": {
+      "title": "Last Stone Weight",
+      "url": "https://leetcode.com/problems/last-stone-weight/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w6-d5",
+        "title": "Heap pop practice",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-8-binary-heaps/",
+        "support": "https://visualgo.net/en/heap",
+        "practice": "https://leetcode.com/problems/last-stone-weight/"
+      }
+    ]
+  },
+  {
+    "oldId": "w6-d6",
+    "oldTitle": "Trees review",
+    "action": "replace",
+    "reason": "Replace Towers, a sorting/searching problem, with an inorder traversal checkpoint.",
+    "oldVideo": {
+      "title": "Trees & Heaps Review — take U forward",
+      "url": "https://www.youtube.com/watch?v=fAAZixBzIAI"
+    },
+    "oldPractice": {
+      "title": "Towers",
+      "url": "https://cses.fi/problemset/task/1073"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-trees",
+        "title": "Trees and heaps: checkpoint",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-6-binary-trees-part-1/",
+        "support": "https://visualgo.net/en/bst",
+        "practice": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+      }
+    ]
+  },
+  {
+    "oldId": "w7-d1",
+    "oldTitle": "Graph representation",
+    "action": "replace",
+    "reason": "Replace connected-components practice with adjacency construction and degree inspection.",
+    "oldVideo": {
+      "title": "Graph Representation — take U forward",
+      "url": "https://www.youtube.com/watch?v=M3_pLsDdeuU"
+    },
+    "oldPractice": {
+      "title": "Building Roads",
+      "url": "https://cses.fi/problemset/task/1666"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-graph-representation",
+        "title": "Graph representation",
+        "primary": "https://usaco.guide/bronze/intro-graphs",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://leetcode.com/problems/find-center-of-star-graph/"
+      }
+    ]
+  },
+  {
+    "oldId": "w7-d2",
+    "oldTitle": "Depth-first search",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "DFS Algorithm — take U forward",
+      "url": "https://www.youtube.com/watch?v=Y40bRyPQQr0"
+    },
+    "oldPractice": {
+      "title": "Number of Islands",
+      "url": "https://leetcode.com/problems/number-of-islands/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w7-d2",
+        "title": "Depth-first search",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-10-depth-first-search/",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://leetcode.com/problems/number-of-islands/"
+      }
+    ]
+  },
+  {
+    "oldId": "w7-d3",
+    "oldTitle": "Breadth-first search",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "BFS Algorithm — take U forward",
+      "url": "https://www.youtube.com/watch?v=-tgVpUgsQ5k"
+    },
+    "oldPractice": {
+      "title": "Shortest Path in Binary Matrix",
+      "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w7-d3",
+        "title": "Breadth-first search",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-9-breadth-first-search/",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://leetcode.com/problems/shortest-path-in-binary-matrix/"
+      }
+    ]
+  },
+  {
+    "oldId": "w7-d4",
+    "oldTitle": "Components",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Connected Components — take U forward",
+      "url": "https://www.youtube.com/watch?v=sY4p_hTExos"
+    },
+    "oldPractice": {
+      "title": "Counting Rooms",
+      "url": "https://cses.fi/problemset/task/1192"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w7-d4",
+        "title": "Connected components",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-10-depth-first-search/",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://cses.fi/problemset/task/1192"
+      }
+    ]
+  },
+  {
+    "oldId": "w7-d5",
+    "oldTitle": "Graph cycles",
+    "action": "replace",
+    "reason": "Replace the generic sheet with an exact undirected-cycle reconstruction task.",
+    "oldVideo": {
+      "title": "Cycle Detection — take U forward",
+      "url": "https://www.youtube.com/watch?v=BPlrALf1LDU"
+    },
+    "oldPractice": {
+      "title": "Cycle Detection",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-graph-cycles",
+        "title": "Graph cycles",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-10-depth-first-search/",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://cses.fi/problemset/task/1669"
+      }
+    ]
+  },
+  {
+    "oldId": "w7-d6",
+    "oldTitle": "Graph review",
+    "action": "replace",
+    "reason": "Replace the broad review bank with a stage checkpoint and a named assignment.",
+    "oldVideo": {
+      "title": "Graph Foundations Review — take U forward",
+      "url": "https://www.youtube.com/watch?v=M3_pLsDdeuU"
+    },
+    "oldPractice": {
+      "title": "Message Route",
+      "url": "https://cses.fi/problemset/task/1667"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-graphs",
+        "title": "Graphs: checkpoint",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-9-breadth-first-search/",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://cses.fi/problemset/task/1667"
+      }
+    ]
+  },
+  {
+    "oldId": "w8-d1",
+    "oldTitle": "Topological sort",
+    "action": "move",
+    "reason": "Move topological order into the core graph stage after directed-cycle prerequisites.",
+    "oldVideo": {
+      "title": "Topological Sort — take U forward",
+      "url": "https://www.youtube.com/watch?v=cIBFEhD77b4"
+    },
+    "oldPractice": {
+      "title": "Course Schedule",
+      "url": "https://leetcode.com/problems/course-schedule/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w8-d1",
+        "title": "Topological ordering",
+        "primary": "https://cp-algorithms.com/graph/topological-sort.html",
+        "support": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-10-depth-first-search/",
+        "practice": "https://leetcode.com/problems/course-schedule/"
+      }
+    ]
+  },
+  {
+    "oldId": "w8-d2",
+    "oldTitle": "Dijkstra",
+    "action": "move",
+    "reason": "Move weighted shortest paths to optional extensions after heaps and graph traversal.",
+    "oldVideo": {
+      "title": "Dijkstra's Algorithm — take U forward",
+      "url": "https://www.youtube.com/watch?v=V6H1qAeB-l4"
+    },
+    "oldPractice": {
+      "title": "Network Delay Time",
+      "url": "https://leetcode.com/problems/network-delay-time/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w8-d2",
+        "title": "Dijkstra",
+        "primary": "https://cp-algorithms.com/graph/dijkstra.html",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://leetcode.com/problems/network-delay-time/"
+      }
+    ]
+  },
+  {
+    "oldId": "w8-d3",
+    "oldTitle": "Disjoint sets",
+    "action": "move",
+    "reason": "Move DSU to an optional extension after components.",
+    "oldVideo": {
+      "title": "Disjoint Set Union — take U forward",
+      "url": "https://www.youtube.com/watch?v=aBxjDBC4M1U"
+    },
+    "oldPractice": {
+      "title": "Number of Provinces",
+      "url": "https://leetcode.com/problems/number-of-provinces/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w8-d3",
+        "title": "Disjoint sets",
+        "primary": "https://cp-algorithms.com/data_structures/disjoint_set_union.html",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://leetcode.com/problems/number-of-provinces/"
+      }
+    ]
+  },
+  {
+    "oldId": "w8-d4",
+    "oldTitle": "Minimum spanning tree",
+    "action": "move",
+    "reason": "Move MST to an optional extension with explicit DSU prerequisites.",
+    "oldVideo": {
+      "title": "Kruskal's MST — take U forward",
+      "url": "https://www.youtube.com/watch?v=DMnDM_sxVig"
+    },
+    "oldPractice": {
+      "title": "Road Reparation",
+      "url": "https://cses.fi/problemset/task/1675"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w8-d4",
+        "title": "Minimum spanning tree",
+        "primary": "https://cp-algorithms.com/graph/mst_kruskal.html",
+        "support": "https://cp-algorithms.com/data_structures/disjoint_set_union.html",
+        "practice": "https://cses.fi/problemset/task/1675"
+      }
+    ]
+  },
+  {
+    "oldId": "w8-d5",
+    "oldTitle": "Bellman-Ford idea",
+    "action": "replace",
+    "reason": "Replace the generic sheet with an exact negative-cycle task after relaxation is understood.",
+    "oldVideo": {
+      "title": "Bellman-Ford — take U forward",
+      "url": "https://www.youtube.com/watch?v=0vVofAhAYjc"
+    },
+    "oldPractice": {
+      "title": "Bellman-Ford",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-bellman",
+        "title": "Bellman-Ford",
+        "primary": "https://cp-algorithms.com/graph/bellman_ford.html",
+        "support": "https://cp-algorithms.com/graph/dijkstra.html",
+        "practice": "https://cses.fi/problemset/task/1197"
+      }
+    ]
+  },
+  {
+    "oldId": "w8-d6",
+    "oldTitle": "Graph algorithms review",
+    "action": "retire",
+    "reason": "Retire the broad advanced-graph review; offer the named weighted-path extension instead.",
+    "oldVideo": {
+      "title": "Graph Algorithm Selection — take U forward",
+      "url": "https://www.youtube.com/watch?v=M3_pLsDdeuU"
+    },
+    "oldPractice": {
+      "title": "Shortest Routes I",
+      "url": "https://cses.fi/problemset/task/1671"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w8-d2",
+        "title": "Dijkstra",
+        "primary": "https://cp-algorithms.com/graph/dijkstra.html",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://leetcode.com/problems/network-delay-time/"
+      }
+    ]
+  },
+  {
+    "oldId": "w9-d1",
+    "oldTitle": "Greedy proof",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Greedy Algorithms Intro — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=HzeK7g8cD0Y"
+    },
+    "oldPractice": {
+      "title": "Assign Cookies",
+      "url": "https://leetcode.com/problems/assign-cookies/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w9-d1",
+        "title": "Greedy choices and proof",
+        "primary": "https://usaco.guide/bronze/intro-greedy",
+        "support": "https://usaco.guide/bronze/intro-sorting",
+        "practice": "https://leetcode.com/problems/assign-cookies/"
+      }
+    ]
+  },
+  {
+    "oldId": "w9-d2",
+    "oldTitle": "Activity selection",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Activity Selection — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=iEchbCHFvNM"
+    },
+    "oldPractice": {
+      "title": "Movie Festival",
+      "url": "https://cses.fi/problemset/task/1629"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w9-d2",
+        "title": "Activity selection",
+        "primary": "https://usaco.guide/silver/greedy-sorting",
+        "support": "https://usaco.guide/bronze/intro-greedy",
+        "practice": "https://cses.fi/problemset/task/1629"
+      }
+    ]
+  },
+  {
+    "oldId": "w9-d3",
+    "oldTitle": "Merge intervals",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Merge Intervals — NeetCode",
+      "url": "https://www.youtube.com/watch?v=44H3cEC2fFM"
+    },
+    "oldPractice": {
+      "title": "Merge Intervals",
+      "url": "https://leetcode.com/problems/merge-intervals/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w9-d3",
+        "title": "Merge intervals",
+        "primary": "https://www.techinterviewhandbook.org/algorithms/interval/",
+        "support": "https://usaco.guide/bronze/intro-sorting",
+        "practice": "https://leetcode.com/problems/merge-intervals/"
+      }
+    ]
+  },
+  {
+    "oldId": "w9-d4",
+    "oldTitle": "Meeting rooms",
+    "action": "replace",
+    "reason": "Replace the premium-risk Meeting Rooms II assignment with free Restaurant Customers; disclose distinct event times.",
+    "oldVideo": {
+      "title": "Meeting Rooms II — NeetCode",
+      "url": "https://www.youtube.com/watch?v=FdzJmTx9fHg"
+    },
+    "oldPractice": {
+      "title": "Meeting Rooms II",
+      "url": "https://leetcode.com/problems/meeting-rooms-ii/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-overlap",
+        "title": "Overlapping intervals",
+        "primary": "https://usaco.guide/silver/greedy-sorting",
+        "support": "https://usaco.guide/bronze/intro-sorting",
+        "practice": "https://cses.fi/problemset/task/1619"
+      }
+    ]
+  },
+  {
+    "oldId": "w9-d5",
+    "oldTitle": "Jump game",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Jump Game — NeetCode",
+      "url": "https://www.youtube.com/watch?v=Yan0cv2cLy8"
+    },
+    "oldPractice": {
+      "title": "Jump Game",
+      "url": "https://leetcode.com/problems/jump-game/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w9-d5",
+        "title": "Reachability with greedy",
+        "primary": "https://usaco.guide/bronze/intro-greedy",
+        "support": "https://usaco.guide/bronze/intro-ds",
+        "practice": "https://leetcode.com/problems/jump-game/"
+      }
+    ]
+  },
+  {
+    "oldId": "w9-d6",
+    "oldTitle": "Greedy review",
+    "action": "replace",
+    "reason": "Replace the broad review bank with a stage checkpoint and a named assignment.",
+    "oldVideo": {
+      "title": "Greedy Strategy Review — Abdul Bari",
+      "url": "https://www.youtube.com/watch?v=HzeK7g8cD0Y"
+    },
+    "oldPractice": {
+      "title": "Greedy revision",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-greedy",
+        "title": "Greedy and intervals: checkpoint",
+        "primary": "https://usaco.guide/silver/greedy-sorting",
+        "support": "https://usaco.guide/bronze/intro-sorting",
+        "practice": "https://cses.fi/problemset/task/1619"
+      }
+    ]
+  },
+  {
+    "oldId": "w10-d1",
+    "oldTitle": "Fibonacci three ways",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "DP Introduction (Fibonacci) — take U forward",
+      "url": "https://www.youtube.com/watch?v=tyB0ztf0DNY"
+    },
+    "oldPractice": {
+      "title": "Climbing Stairs",
+      "url": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w10-d1",
+        "title": "Fibonacci three ways",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-15-dynamic-programming-part-1-srtbot-fib-dags-bowling/",
+        "support": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+        "practice": "https://leetcode.com/problems/climbing-stairs/"
+      }
+    ]
+  },
+  {
+    "oldId": "w10-d2",
+    "oldTitle": "State & transition",
+    "action": "replace",
+    "reason": "Replace the generic Frog Jump sheet link with a specific small state-design exercise.",
+    "oldVideo": {
+      "title": "DP State Design — take U forward",
+      "url": "https://www.youtube.com/watch?v=tyB0ztf0DNY"
+    },
+    "oldPractice": {
+      "title": "Frog Jump",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-dp-state",
+        "title": "State and transition",
+        "primary": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+        "support": "https://visualgo.net/en/recursion",
+        "practice": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+      }
+    ]
+  },
+  {
+    "oldId": "w10-d3",
+    "oldTitle": "Non-adjacent maximum",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "House Robber — NeetCode",
+      "url": "https://www.youtube.com/watch?v=73r3KWiEvyk"
+    },
+    "oldPractice": {
+      "title": "House Robber",
+      "url": "https://leetcode.com/problems/house-robber/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w10-d3",
+        "title": "Non-adjacent maximum",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-15-dynamic-programming-part-1-srtbot-fib-dags-bowling/",
+        "support": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+        "practice": "https://leetcode.com/problems/house-robber/"
+      }
+    ]
+  },
+  {
+    "oldId": "w10-d4",
+    "oldTitle": "Grid paths",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Unique Paths — NeetCode",
+      "url": "https://www.youtube.com/watch?v=IlEsdxuD4lY"
+    },
+    "oldPractice": {
+      "title": "Unique Paths",
+      "url": "https://leetcode.com/problems/unique-paths/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w10-d4",
+        "title": "Grid paths",
+        "primary": "https://usaco.guide/gold/paths-grids",
+        "support": "https://visualgo.net/en/recursion",
+        "practice": "https://leetcode.com/problems/unique-paths/"
+      }
+    ]
+  },
+  {
+    "oldId": "w10-d5",
+    "oldTitle": "Coin change",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "Coin Change — NeetCode",
+      "url": "https://www.youtube.com/watch?v=H9bfqozjoqs"
+    },
+    "oldPractice": {
+      "title": "Coin Change",
+      "url": "https://leetcode.com/problems/coin-change/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w10-d5",
+        "title": "Coin change",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-16-dynamic-programming-part-2-lcs-lis-coins/",
+        "support": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+        "practice": "https://leetcode.com/problems/coin-change/"
+      }
+    ]
+  },
+  {
+    "oldId": "w10-d6",
+    "oldTitle": "DP review",
+    "action": "replace",
+    "reason": "Replace the broad review bank with a stage checkpoint and a named assignment.",
+    "oldVideo": {
+      "title": "DP Patterns Review — take U forward",
+      "url": "https://www.youtube.com/watch?v=tyB0ztf0DNY"
+    },
+    "oldPractice": {
+      "title": "Dice Combinations",
+      "url": "https://cses.fi/problemset/task/1633"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-dp",
+        "title": "Dynamic programming: checkpoint",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-15-dynamic-programming-part-1-srtbot-fib-dags-bowling/",
+        "support": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+        "practice": "https://cses.fi/problemset/task/1633"
+      }
+    ]
+  },
+  {
+    "oldId": "w11-d1",
+    "oldTitle": "0/1 knapsack",
+    "action": "replace",
+    "reason": "Replace the generic knapsack sheet link with Book Shop and a concrete 0/1 table.",
+    "oldVideo": {
+      "title": "0/1 Knapsack — take U forward",
+      "url": "https://www.youtube.com/watch?v=mGfK-j9gAQA"
+    },
+    "oldPractice": {
+      "title": "0/1 Knapsack",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-knapsack",
+        "title": "0/1 knapsack",
+        "primary": "https://usaco.guide/gold/knapsack",
+        "support": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+        "practice": "https://cses.fi/problemset/task/1158"
+      }
+    ]
+  },
+  {
+    "oldId": "w11-d2",
+    "oldTitle": "Longest common subsequence",
+    "action": "keep",
+    "reason": "Retain the learning objective; replace weekly fallback links with explicit topic-level sources and a worked example.",
+    "oldVideo": {
+      "title": "LCS — take U forward",
+      "url": "https://www.youtube.com/watch?v=sSno9rV8Rhg"
+    },
+    "oldPractice": {
+      "title": "Longest Common Subsequence",
+      "url": "https://leetcode.com/problems/longest-common-subsequence/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w11-d2",
+        "title": "Longest common subsequence",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-16-dynamic-programming-part-2-lcs-lis-coins/",
+        "support": "https://usaco.guide/gold/paths-grids",
+        "practice": "https://leetcode.com/problems/longest-common-subsequence/"
+      }
+    ]
+  },
+  {
+    "oldId": "w11-d3",
+    "oldTitle": "Edit distance",
+    "action": "keep",
+    "reason": "Replace the general DP introduction with MIT's actual edit-distance lecture section.",
+    "oldVideo": {
+      "title": "Edit Distance — NeetCode",
+      "url": "https://www.youtube.com/watch?v=XYi2-LPrwm4"
+    },
+    "oldPractice": {
+      "title": "Edit Distance",
+      "url": "https://leetcode.com/problems/edit-distance/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w11-d3",
+        "title": "Edit distance",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/",
+        "support": "https://usaco.guide/gold/paths-grids",
+        "practice": "https://leetcode.com/problems/edit-distance/"
+      }
+    ]
+  },
+  {
+    "oldId": "w11-d4",
+    "oldTitle": "Sliding window",
+    "action": "move",
+    "reason": "Move fixed windows before recursion and DP, after prefix sums.",
+    "oldVideo": {
+      "title": "Sliding Window — take U forward",
+      "url": "https://www.youtube.com/watch?v=jM2dhDPtoXY"
+    },
+    "oldPractice": {
+      "title": "Maximum Average Subarray I",
+      "url": "https://leetcode.com/problems/maximum-average-subarray-i/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w11-d4",
+        "title": "Fixed sliding windows",
+        "primary": "https://usaco.guide/silver/two-pointers",
+        "support": "https://usaco.guide/silver/prefix-sums",
+        "practice": "https://leetcode.com/problems/maximum-average-subarray-i/"
+      }
+    ]
+  },
+  {
+    "oldId": "w11-d5",
+    "oldTitle": "No-repeat substring",
+    "action": "move",
+    "reason": "Move variable windows immediately after fixed windows and hash maps.",
+    "oldVideo": {
+      "title": "Longest Substring No Repeat — NeetCode",
+      "url": "https://www.youtube.com/watch?v=wiGpQwVHdE0"
+    },
+    "oldPractice": {
+      "title": "Longest Substring Without Repeating Characters",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "w11-d5",
+        "title": "Variable sliding windows",
+        "primary": "https://usaco.guide/silver/two-pointers",
+        "support": "https://usaco.guide/bronze/intro-sets",
+        "practice": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+      }
+    ]
+  },
+  {
+    "oldId": "w11-d6",
+    "oldTitle": "DP & strings review",
+    "action": "replace",
+    "reason": "Replace the broad review bank with a stage checkpoint and a named assignment.",
+    "oldVideo": {
+      "title": "String DP & Sliding Window — take U forward",
+      "url": "https://www.youtube.com/watch?v=jM2dhDPtoXY"
+    },
+    "oldPractice": {
+      "title": "DP revision",
+      "url": "https://leetcode.com/problemset/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-checkpoint-dp",
+        "title": "Dynamic programming: checkpoint",
+        "primary": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-15-dynamic-programming-part-1-srtbot-fib-dags-bowling/",
+        "support": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+        "practice": "https://cses.fi/problemset/task/1633"
+      }
+    ]
+  },
+  {
+    "oldId": "w12-d1",
+    "oldTitle": "Arrays mixed set",
+    "action": "replace",
+    "reason": "Replace generic revision links and mismatched video labels with assigned questions and interview-practice guidance. Correct the falsely attributed Fiset video; the original is not a NeetCode/takeUforward lesson.",
+    "oldVideo": {
+      "title": "Array Patterns Review — take U forward",
+      "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+    },
+    "oldPractice": {
+      "title": "Array mixed set",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-array-mock",
+        "title": "Arrays mixed practice",
+        "primary": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+        "support": "https://usaco.guide/silver/two-pointers",
+        "practice": "https://leetcode.com/problems/container-with-most-water/"
+      }
+    ]
+  },
+  {
+    "oldId": "w12-d2",
+    "oldTitle": "Trees & graphs mixed set",
+    "action": "replace",
+    "reason": "Replace generic revision links and mismatched video labels with assigned questions and interview-practice guidance.",
+    "oldVideo": {
+      "title": "Trees & Graphs Mixed — take U forward",
+      "url": "https://www.youtube.com/watch?v=M3_pLsDdeuU"
+    },
+    "oldPractice": {
+      "title": "Graph mixed set",
+      "url": "https://cses.fi/problemset/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-tree-graph-mock",
+        "title": "Trees and graphs mixed practice",
+        "primary": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+        "support": "https://visualgo.net/en/dfsbfs",
+        "practice": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+      }
+    ]
+  },
+  {
+    "oldId": "w12-d3",
+    "oldTitle": "DP & greedy mixed set",
+    "action": "replace",
+    "reason": "Replace generic revision links and mismatched video labels with assigned questions and interview-practice guidance.",
+    "oldVideo": {
+      "title": "Greedy vs DP — take U forward",
+      "url": "https://www.youtube.com/watch?v=tyB0ztf0DNY"
+    },
+    "oldPractice": {
+      "title": "DP mixed set",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-dp-greedy-mock",
+        "title": "DP and greedy decisions",
+        "primary": "https://www.techinterviewhandbook.org/coding-interview-techniques/",
+        "support": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+        "practice": "https://leetcode.com/problems/coin-change/"
+      }
+    ]
+  },
+  {
+    "oldId": "w12-d4",
+    "oldTitle": "Re-solve your misses",
+    "action": "replace",
+    "reason": "Replace generic revision links and mismatched video labels with assigned questions and interview-practice guidance.",
+    "oldVideo": {
+      "title": "Learning From Mistakes — William Fiset",
+      "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+    },
+    "oldPractice": {
+      "title": "Your error log",
+      "url": "https://leetcode.com/problemset/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-resolve",
+        "title": "Re-solve and explain",
+        "primary": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+        "support": "https://www.learncpp.com/cpp-tutorial/introduction-to-testing-your-code/",
+        "practice": "https://leetcode.com/problems/two-sum/"
+      }
+    ]
+  },
+  {
+    "oldId": "w12-d5",
+    "oldTitle": "Pattern sheet",
+    "action": "replace",
+    "reason": "Replace generic revision links and mismatched video labels with assigned questions and interview-practice guidance. Correct the falsely attributed Fiset video; the original is not a NeetCode/takeUforward lesson.",
+    "oldVideo": {
+      "title": "DSA Patterns Cheatsheet — take U forward",
+      "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+    },
+    "oldPractice": {
+      "title": "Build your pattern sheet",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-pattern-sheet",
+        "title": "Your pattern sheet",
+        "primary": "https://www.techinterviewhandbook.org/coding-interview-techniques/",
+        "support": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+        "practice": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+      }
+    ]
+  },
+  {
+    "oldId": "w12-d6",
+    "oldTitle": "Final mock",
+    "action": "replace",
+    "reason": "Replace generic revision links and mismatched video labels with assigned questions and interview-practice guidance. Correct the falsely attributed Fiset video; the original is not a NeetCode/takeUforward lesson.",
+    "oldVideo": {
+      "title": "Mock Interview Strategy — NeetCode",
+      "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+    },
+    "oldPractice": {
+      "title": "CSES problem set",
+      "url": "https://cses.fi/problemset/"
+    },
+    "topicSuitability": "Editorial comparison of the lesson outcome, publisher topic descriptions, and problem statements; not a full-video review.",
+    "accessReview": "See resource-verification.json for direct HTTP checks and resource-evidence.md for publisher checks. Blocked fetches are not proof of a paywall or a dead link.",
+    "replacements": [
+      {
+        "id": "lesson-final-mock",
+        "title": "Final mock and next steps",
+        "primary": "https://www.techinterviewhandbook.org/coding-interview-study-plan/",
+        "support": "https://www.learncpp.com/cpp-tutorial/introduction-to-testing-your-code/",
+        "practice": "https://leetcode.com/problems/house-robber/"
+      }
+    ]
+  }
+]

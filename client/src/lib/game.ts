@@ -1,4 +1,4 @@
-import { lessons } from "./curriculum";
+import { lessons, allLessons, legacyLessons } from "./curriculum";
 
 export type ProgressEntry = {
   lesson_id: string;
@@ -29,11 +29,16 @@ export function completedEntries(progress: ProgressEntry[]) {
 
 export function completedLessonIds(progress: ProgressEntry[]) {
   const complete = new Set<string>();
-  for (const lesson of lessons) {
-    const total = progress.filter((entry) => entry.lesson_id === lesson.id && entry.completed).length;
+  for (const lesson of allLessons) {
+    const total = new Set(progress.filter((entry) => entry.lesson_id === lesson.id && entry.completed && entry.objective_index >= 0 && entry.objective_index < 5).map(entry => entry.objective_index)).size;
     if (total === 5) complete.add(lesson.id);
   }
   return complete;
+}
+
+export function completedCoreLessonIds(progress: ProgressEntry[]) {
+  const done = completedLessonIds(progress);
+  return new Set(lessons.filter(lesson => done.has(lesson.id)).map(lesson => lesson.id));
 }
 
 export function getXp(progress: ProgressEntry[]) {
@@ -84,14 +89,16 @@ export function getBadges(progress: ProgressEntry[], projectCount: number) {
   const done = completedLessonIds(progress);
   const streak = getStreak(progress);
   const completeLessons = done.size;
+  const coreDone = completedCoreLessonIds(progress).size;
+  const legacyDone = legacyLessons.filter(lesson => done.has(lesson.id));
   return [
     { name: "First Blood", note: "Finish your first lesson", unlocked: completeLessons >= 1, icon: "⚔" },
     { name: "7 Day Streak", note: "Stay active for seven days", unlocked: streak >= 7, icon: "🔥" },
-    { name: "Arrays Done", note: "Finish Week 1", unlocked: lessons.filter((item) => item.week === 1).every((item) => done.has(item.id)), icon: "▦" },
+    { name: "Arrays Done", note: "Finish the arrays stage (or the original arrays week)", unlocked: lessons.filter(item => item.stageId === "arrays").every(item => done.has(item.id)) || legacyLessons.filter(item => item.week === 1).every(item => done.has(item.id)), icon: "▦" },
     { name: "First Project", note: "Publish a project", unlocked: projectCount >= 1, icon: "↗" },
     { name: "10 Lessons", note: "Finish ten lessons", unlocked: completeLessons >= 10, icon: "10" },
-    { name: "Halfway There", note: "Finish 36 lessons", unlocked: completeLessons >= 36, icon: "½" },
-    { name: "Algo Ace", note: "Finish all 72 lessons", unlocked: completeLessons === lessons.length, icon: "★" },
+    { name: "Halfway There", note: "Finish half the core path (previous award honoured)", unlocked: coreDone >= Math.ceil(lessons.length / 2) || legacyDone.length >= legacyLessons.length / 2, icon: "½" },
+    { name: "Algo Ace", note: "Finish the core path (previous award honoured)", unlocked: coreDone === lessons.length || legacyDone.length === legacyLessons.length, icon: "★" },
   ];
 }
 

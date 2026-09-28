@@ -9,7 +9,10 @@
     "start": "vite preview --host",
     "preview": "vite preview --host",
     "check": "tsc --noEmit",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "check:curriculum": "tsx scripts/check-curriculum.ts",
+    "audit:resources": "tsx scripts/audit-resources.ts",
+    "check:links": "python scripts/check-resource-links.py"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
